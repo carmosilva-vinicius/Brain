@@ -18,6 +18,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "be1353ce00dca9db",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ]
       }
@@ -151,6 +159,8 @@
     "OS/Linux/Coding Setup.md",
     "OS/Linux/Directory Structure.md",
     "OS/Linux/CLI.md",
+    "Untitled.canvas",
+    "2023-08-27.md",
     "OS/Linux",
     "OS"
   ]
