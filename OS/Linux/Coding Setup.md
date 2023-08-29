@@ -8,11 +8,17 @@ Here are some tools to write code and run [[CLI]] commands.
 - `tmux attach-session -t 0`: Delete a session;
 ___
 # Tilix
-- `Ctrl+Alt+r` : Split the terminal horizontally;
-- `Ctrl+Alt+d`: Split the terminal vertically;
-- `Ctrl+Shift+w`: close current terminal
-- `Shift+Alt+Arrows`: Resize the terminal in the direction o arrow;
-- `Alt+Arrows`: Navigate to terminal in the direction o arrow;
+##### Terminals:
+- `Ctrl + Alt + r` : Split the terminal horizontally;
+- `Ctrl + Alt + d`: Split the terminal vertically;
+- `Ctrl + Shift + w`: close current terminal
+- `Shift + Alt + Arrows`: Resize the terminal in the direction o arrow;
+- `Alt + Arrows`: Navigate to terminal in the direction o arrow;
+##### Sessions:
+- `Ctrl + Shift + t` : Create new session;
+- `Ctrl + Shift + q`: Remove current serrion;
+- `Ctrl + PageUp`: Jump to previous session;
+- `Ctrl + PageDown`: Jump to next serrion;
 
 ---
 
