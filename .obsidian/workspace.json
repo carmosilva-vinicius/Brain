@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "93c7b1b1a54aae1a",
+        "id": "981de89e46330793",
         "type": "tabs",
         "children": [
           {
-            "id": "eeca8aabcee8d6b2",
+            "id": "f2bf02dfb2dbfe16",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Structure/Array.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0c3500e09339027c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithms/Algorithms.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structure/Array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structure/Array.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Data Structure/Array.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -158,19 +138,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eeca8aabcee8d6b2",
+  "active": "f2bf02dfb2dbfe16",
   "lastOpenFiles": [
-    "Algorithms/Algorithms.md",
+    "OS/Linux/Systemd.md",
+    "Network/DNS.md",
+    "OS/Linux/Permissions.md",
+    "MediaServer/Pley Server.md",
+    "OS/Linux/Coding Setup.md",
+    "Untitled 1",
+    "MediaServer",
+    "Network",
+    "Data Structure/Data Structure.md",
     "Data Structure/Array.md",
+    "Algorithms/Algorithms.md",
     "Programming/CSHARP .NET/CSHARP.md",
     "Algorithms",
     "C.md",
     "Programming/CSHARP .NET",
     "Programming",
-    "Data Structure/Data Structure.md",
     "OS/Linux/Directory Structure.md",
     "OS/Linux/CLI.md",
-    "OS/Linux/Coding Setup.md",
     "Untitled.canvas",
     "Data Structure^a4aea2.md",
     "Data Structure",
