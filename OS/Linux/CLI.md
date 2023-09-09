@@ -1,3 +1,4 @@
+Here are the minimal required to command line interface in a [[Linux]] operational system.
 # File content view
 ### cat, more and less
 

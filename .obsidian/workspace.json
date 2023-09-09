@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "981de89e46330793",
+        "id": "d8e73124d2a56eab",
         "type": "tabs",
         "children": [
           {
-            "id": "f2bf02dfb2dbfe16",
+            "id": "452be572021de63d",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -138,26 +138,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f2bf02dfb2dbfe16",
+  "active": "452be572021de63d",
   "lastOpenFiles": [
-    "OS/Linux/Systemd.md",
-    "Network/DNS.md",
-    "OS/Linux/Permissions.md",
-    "MediaServer/Pley Server.md",
+    "OS/Linux/CLI.md",
     "OS/Linux/Coding Setup.md",
+    "OS/Linux/Linux.md",
+    "OS/Linux/Systemd.md",
+    "OS/Linux/Permissions.md",
+    "Programming/Elixir.md",
+    "MediaServer/Media Server.md",
+    "Algorithms/Algorithms.md",
+    "Data Structure/Array.md",
+    "Data Structure/Linked List.md",
+    "Network/DNS.md",
     "Untitled 1",
     "MediaServer",
     "Network",
     "Data Structure/Data Structure.md",
-    "Data Structure/Array.md",
-    "Algorithms/Algorithms.md",
     "Programming/CSHARP .NET/CSHARP.md",
     "Algorithms",
     "C.md",
     "Programming/CSHARP .NET",
     "Programming",
     "OS/Linux/Directory Structure.md",
-    "OS/Linux/CLI.md",
     "Untitled.canvas",
     "Data Structure^a4aea2.md",
     "Data Structure",
