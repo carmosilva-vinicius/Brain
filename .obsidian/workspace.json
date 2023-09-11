@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "981de89e46330793",
+        "id": "b9013f1ac97f9544",
         "type": "tabs",
         "children": [
           {
-            "id": "f2bf02dfb2dbfe16",
+            "id": "7fa407c8b1eaa160",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Programming/CSHARP .NET/CSHARP.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Programming/CSHARP .NET/CSHARP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Programming/CSHARP .NET/CSHARP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Programming/CSHARP .NET/CSHARP.md"
+              }
             }
           }
         ]
@@ -138,12 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f2bf02dfb2dbfe16",
+  "active": "7fa407c8b1eaa160",
   "lastOpenFiles": [
+    "MediaServer/Pley Server.md",
+    "OS/Linux/Permissions.md",
     "OS/Linux/Systemd.md",
     "Network/DNS.md",
-    "OS/Linux/Permissions.md",
-    "MediaServer/Pley Server.md",
     "OS/Linux/Coding Setup.md",
     "Untitled 1",
     "MediaServer",
