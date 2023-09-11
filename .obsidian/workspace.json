@@ -4,31 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "d8e73124d2a56eab",
+        "id": "e8ee38f9217cd05b",
         "type": "tabs",
         "children": [
           {
-            "id": "452be572021de63d",
+            "id": "56ce4b1015bab6a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Elixir.md",
+                "file": "OS/Operational System.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f4fce0c8d67fb75e",
+            "id": "94f3741bdf738d93",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Network/Internet.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -98,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/Internet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/Internet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Network/Internet.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,20 +151,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bd76018b1e0d0dcf",
+  "active": "94f3741bdf738d93",
   "lastOpenFiles": [
-    "Programming/Elixir.md",
     "Network/Internet.md",
-    "Algorithms/Algorithms.md",
-    "Data Structure/Data Structure.md",
-    "OS/Linux/CLI.md",
-    "OS/Linux/Coding Setup.md",
+    "OS/POSIX.md",
+    "OS/Windows/Windows.md",
     "OS/Linux/Linux.md",
+    "OS/Operational System.md",
+    "OS/UNIX.md",
+    "Data Structure/Array.md",
+    "Data Structure/Data Structure.md",
+    "Data Structure/Linked List.md",
+    "OS/Windows/PowerShell.md",
+    "OS/Windows",
+    "OS/Linux/CLI.md",
+    "Programming/Elixir.md",
+    "Algorithms/Algorithms.md",
+    "OS/Linux/Coding Setup.md",
     "OS/Linux/Systemd.md",
     "OS/Linux/Permissions.md",
     "MediaServer/Media Server.md",
-    "Data Structure/Array.md",
-    "Data Structure/Linked List.md",
     "Network/DNS.md",
     "Untitled 1",
     "MediaServer",
