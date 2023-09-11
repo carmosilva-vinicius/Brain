@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "b9013f1ac97f9544",
+        "id": "e8ee38f9217cd05b",
         "type": "tabs",
         "children": [
           {
-            "id": "7fa407c8b1eaa160",
+            "id": "56ce4b1015bab6a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OS/Operational System.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94f3741bdf738d93",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,26 +159,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7fa407c8b1eaa160",
+  "active": "94f3741bdf738d93",
   "lastOpenFiles": [
-    "MediaServer/Pley Server.md",
-    "OS/Linux/Permissions.md",
-    "OS/Linux/Systemd.md",
-    "Network/DNS.md",
+    "Network/Internet.md",
+    "OS/POSIX.md",
+    "OS/Windows/Windows.md",
+    "OS/Linux/Linux.md",
+    "OS/Operational System.md",
+    "OS/UNIX.md",
+    "Data Structure/Array.md",
+    "Data Structure/Data Structure.md",
+    "Data Structure/Linked List.md",
+    "OS/Windows/PowerShell.md",
+    "OS/Windows",
+    "OS/Linux/CLI.md",
+    "Programming/Elixir.md",
+    "Algorithms/Algorithms.md",
     "OS/Linux/Coding Setup.md",
+    "OS/Linux/Systemd.md",
+    "OS/Linux/Permissions.md",
+    "MediaServer/Media Server.md",
+    "Network/DNS.md",
     "Untitled 1",
     "MediaServer",
     "Network",
-    "Data Structure/Data Structure.md",
-    "Data Structure/Array.md",
-    "Algorithms/Algorithms.md",
     "Programming/CSHARP .NET/CSHARP.md",
     "Algorithms",
     "C.md",
     "Programming/CSHARP .NET",
     "Programming",
     "OS/Linux/Directory Structure.md",
-    "OS/Linux/CLI.md",
     "Untitled.canvas",
     "Data Structure^a4aea2.md",
     "Data Structure",

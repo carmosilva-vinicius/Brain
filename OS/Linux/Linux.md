@@ -1,0 +1,1 @@
+In 1991, Linux was developed from scratch and uses the existing GNU Project which is a clean-room implementation of much of the [[UNIX]] user-space. It implements much of [[POSIX]] for compatibility and is UNIX-like in design.
