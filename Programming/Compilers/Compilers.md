@@ -1,0 +1,1 @@
+Are a kind of pipeline where each stage should interpret and process the data, organizing to the next stage understand. The front-end of this pipeline line is the sources language and the back-end is the final structure that runs the software.

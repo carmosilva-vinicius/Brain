@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4b2a7c1e5ebdedfb",
+        "id": "f3f008f2d4f6aca6",
         "type": "tabs",
         "children": [
           {
-            "id": "97951164e39fac5d",
+            "id": "070f05e14ab07686",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/C/C.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/C/C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/C/C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,8 +118,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "bd794b7eaf500e30",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
               "state": {
-                "file": "Programming/C/C.md"
+                "sortOrder": "frequency"
               }
             }
           }
@@ -146,24 +148,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "97951164e39fac5d",
+  "active": "070f05e14ab07686",
   "lastOpenFiles": [
-    "Programming/C/C.md",
-    "Programming/Java/Java.md",
-    "Programming/C",
-    "Programming/Java",
-    "OS/OS.md",
+    "Data Structure/Tree.md",
+    "Programming/Compilers/Crafiting Interpreters/Crafting Interpreters.md",
+    "Programming/Compilers/Compilers.md",
+    "Programming/Compilers/Crafiting Interpreters/assets/ast.png",
+    "Programming/Compilers/Crafiting Interpreters/assets/ast.png.opdownload",
+    "Programming/Compilers/Crafiting Interpreters/assets/tokens.png",
+    "Programming/Compilers/Crafiting Interpreters/assets/tokens.png.opdownload",
+    "Programming/Compilers/Crafiting Interpreters/assets/A Map of the Territory · Crafting Interpreters.html",
+    "Programming/Compilers/Crafiting Interpreters/assets/A Map of the Territory · Crafting Interpreters_files/venn.png",
+    "Programming/Compilers/Crafiting Interpreters/assets/A Map of the Territory · Crafting Interpreters_files/tokens.png",
+    "Programming/Compilers/Crafiting Interpreters/assets/A Map of the Territory · Crafting Interpreters_files/style.css",
+    "Programming/Compilers/Crafiting Interpreters/assets/A Map of the Territory · Crafting Interpreters_files/string.png",
+    "Programming/Compilers/Crafiting Interpreters/assets/A Map of the Territory · Crafting Interpreters_files/script.js",
+    "Programming/Compilers/Crafiting Interpreters/assets/A Map of the Territory · Crafting Interpreters_files/plants.png",
+    "Programming/Compilers/Crafiting Interpreters/assets/A Map of the Territory · Crafting Interpreters_files/mountain.png",
+    "Programming/Compilers/Crafiting Interpreters/assets/A Map of the Territory · Crafting Interpreters_files/logotype.png",
+    "Programming/Compilers/Crafiting Interpreters/assets/A Map of the Territory · Crafting Interpreters_files/js",
+    "Programming/Compilers/Crafiting Interpreters/assets/A Map of the Territory · Crafting Interpreters_files/jquery-3.4.1.min.js",
+    "Programming/Compilers/Crafiting Interpreters/assets/A Map of the Territory · Crafting Interpreters_files/css",
+    "Programming/Compilers/Crafiting Interpreters/assets/A Map of the Territory · Crafting Interpreters_files/ast.png",
+    "Programming/Compilers/Crafiting Interpreters/assets/A Map of the Territory · Crafting Interpreters_files/analytics.js",
+    "Programming/Compilers/Crafiting Interpreters/assets/A Map of the Territory · Crafting Interpreters_files",
+    "Programming/Compilers/Crafiting Interpreters/assets/string.png",
+    "Programming/Programming.md",
     "OS/Linux/Linux.md",
+    "OS/POSIX.md",
+    "Programming/Java/Java.md",
+    "Data Structure/Linked List.md",
+    "Programming/C/C.md",
+    "OS/OS.md",
     "Programming/CSHARP .NET/CSHARP.md",
     "Network/Internet.md",
-    "OS/POSIX.md",
     "OS/Windows/Windows.md",
     "OS/UNIX.md",
     "Data Structure/Array.md",
     "Data Structure/Data Structure.md",
-    "Data Structure/Linked List.md",
     "OS/Windows/PowerShell.md",
-    "OS/Windows",
     "OS/Linux/CLI.md",
     "Programming/Elixir.md",
     "Algorithms/Algorithms.md",
@@ -172,17 +195,7 @@
     "OS/Linux/Permissions.md",
     "MediaServer/Media Server.md",
     "Network/DNS.md",
-    "Untitled 1",
-    "MediaServer",
-    "Network",
-    "Algorithms",
     "C.md",
-    "Programming/CSHARP .NET",
-    "Programming",
-    "OS/Linux/Directory Structure.md",
-    "Untitled.canvas",
-    "Data Structure^a4aea2.md",
-    "Data Structure",
-    "2023-08-27.md"
+    "Untitled.canvas"
   ]
 }

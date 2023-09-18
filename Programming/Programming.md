@@ -1,0 +1,1 @@
+Programming is the way that humans uses to talk with the computer using some programming language, for example [[C]], [[Java]], [[Elixir]], [[CSHARP|C#]] and many others. The computer understand just binary codes, so to communicate with a computer we need  [[Compilers]] and interpreters, that parse human text style in binary code.
