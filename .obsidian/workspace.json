@@ -11,11 +11,24 @@
             "id": "070f05e14ab07686",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/CSHARP .NET/ASP.NET/Performance/Queries.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "59b42877b4bbbcbc",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,8 +161,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "070f05e14ab07686",
+  "active": "59b42877b4bbbcbc",
   "lastOpenFiles": [
+    "Programming/CSHARP .NET/ASP.NET/Performance/Queries.md",
+    "Programming/CSHARP .NET/ASP.NET/Entity Framework.md",
+    "Web/Performance and Optimization.md",
+    "Programming/CSHARP .NET/ASP.NET/Performance/Serialization.md",
+    "Programming/CSHARP .NET/ASP.NET",
+    "Programming/CSHARP .NET/ASP.NET/Performance",
+    "Web/Performance",
+    "Web",
+    "Programming/C/C.md",
+    "Programming/Java/Java.md",
     "Data Structure/Tree.md",
     "Programming/Compilers/Crafiting Interpreters/Crafting Interpreters.md",
     "Programming/Compilers/Compilers.md",
@@ -167,18 +190,12 @@
     "Programming/Compilers/Crafiting Interpreters/assets/A Map of the Territory · Crafting Interpreters_files/mountain.png",
     "Programming/Compilers/Crafiting Interpreters/assets/A Map of the Territory · Crafting Interpreters_files/logotype.png",
     "Programming/Compilers/Crafiting Interpreters/assets/A Map of the Territory · Crafting Interpreters_files/js",
-    "Programming/Compilers/Crafiting Interpreters/assets/A Map of the Territory · Crafting Interpreters_files/jquery-3.4.1.min.js",
-    "Programming/Compilers/Crafiting Interpreters/assets/A Map of the Territory · Crafting Interpreters_files/css",
     "Programming/Compilers/Crafiting Interpreters/assets/A Map of the Territory · Crafting Interpreters_files/ast.png",
-    "Programming/Compilers/Crafiting Interpreters/assets/A Map of the Territory · Crafting Interpreters_files/analytics.js",
-    "Programming/Compilers/Crafiting Interpreters/assets/A Map of the Territory · Crafting Interpreters_files",
     "Programming/Compilers/Crafiting Interpreters/assets/string.png",
     "Programming/Programming.md",
     "OS/Linux/Linux.md",
     "OS/POSIX.md",
-    "Programming/Java/Java.md",
     "Data Structure/Linked List.md",
-    "Programming/C/C.md",
     "OS/OS.md",
     "Programming/CSHARP .NET/CSHARP.md",
     "Network/Internet.md",
@@ -192,10 +209,6 @@
     "Algorithms/Algorithms.md",
     "OS/Linux/Coding Setup.md",
     "OS/Linux/Systemd.md",
-    "OS/Linux/Permissions.md",
-    "MediaServer/Media Server.md",
-    "Network/DNS.md",
-    "C.md",
     "Untitled.canvas"
   ]
 }
