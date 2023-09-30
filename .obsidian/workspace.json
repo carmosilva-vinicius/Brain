@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4e3e33392360e197",
+        "id": "90482441b7174eea",
         "type": "tabs",
         "children": [
           {
-            "id": "e78870a2ce4e8238",
+            "id": "2a2d1792592851fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Compilers/Crafiting Interpreters/Crafting Interpreters.md",
+                "file": "Programming/Elixir/Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Compilers/Crafiting Interpreters/Crafting Interpreters.md",
+                "file": "Programming/Elixir/Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Compilers/Crafiting Interpreters/Crafting Interpreters.md",
+                "file": "Programming/Elixir/Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Compilers/Crafiting Interpreters/Crafting Interpreters.md"
+                "file": "Programming/Elixir/Basics.md"
               }
             }
           },
@@ -156,54 +156,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e78870a2ce4e8238",
+  "active": "2a2d1792592851fa",
   "lastOpenFiles": [
-    "Programming/CSHARP .NET/ASP.NET/Performance/Queries.md",
-    "Programming/CSHARP .NET/ASP.NET/Entity Framework.md",
-    "Web/Performance and Optimization.md",
+    "Programming/Elixir/Control Structure.md",
+    "Programming/Elixir/Elixir.md",
+    "Programming/Elixir/Functions.md",
+    "Programming/Elixir/Pattern matching.md",
+    "Programming/Elixir/Basics.md",
+    "Untitled.canvas",
+    "Database/Redis/Redis.md",
+    "OS/Linux/Coding Setup.md",
+    "Database/Redis",
+    "Database",
+    "OS/Linux/Linux.md",
     "Programming/CSHARP .NET/ASP.NET/Performance/Serialization.md",
+    "Web/Performance and Optimization.md",
+    "Programming/CSHARP .NET/ASP.NET/Performance/Queries.md",
+    "Programming/Elixir/Macros.md",
+    "Programming/Elixir/Modules.md",
+    "Programming/CSHARP .NET/ASP.NET/Entity Framework.md",
+    "Programming/Programming.md",
+    "OS/Linux/CLI.md",
+    "Programming/C/C.md",
+    "Programming/Rust/Rust.md",
+    "Programming/Rust",
+    "Programming/Elixir",
+    "Programming/Compilers/Crafiting Interpreters/Crafting Interpreters.md",
     "Programming/CSHARP .NET/ASP.NET",
     "Programming/CSHARP .NET/ASP.NET/Performance",
     "Web/Performance",
     "Web",
-    "Programming/C/C.md",
     "Programming/Java/Java.md",
     "Data Structure/Tree.md",
-    "Programming/Compilers/Crafiting Interpreters/Crafting Interpreters.md",
     "Programming/Compilers/Compilers.md",
     "Programming/Compilers/Crafiting Interpreters/assets/ast.png",
     "Programming/Compilers/Crafiting Interpreters/assets/ast.png.opdownload",
     "Programming/Compilers/Crafiting Interpreters/assets/tokens.png",
     "Programming/Compilers/Crafiting Interpreters/assets/tokens.png.opdownload",
-    "Programming/Compilers/Crafiting Interpreters/assets/A Map of the Territory · Crafting Interpreters.html",
     "Programming/Compilers/Crafiting Interpreters/assets/A Map of the Territory · Crafting Interpreters_files/venn.png",
     "Programming/Compilers/Crafiting Interpreters/assets/A Map of the Territory · Crafting Interpreters_files/tokens.png",
-    "Programming/Compilers/Crafiting Interpreters/assets/A Map of the Territory · Crafting Interpreters_files/style.css",
     "Programming/Compilers/Crafiting Interpreters/assets/A Map of the Territory · Crafting Interpreters_files/string.png",
-    "Programming/Compilers/Crafiting Interpreters/assets/A Map of the Territory · Crafting Interpreters_files/script.js",
     "Programming/Compilers/Crafiting Interpreters/assets/A Map of the Territory · Crafting Interpreters_files/plants.png",
     "Programming/Compilers/Crafiting Interpreters/assets/A Map of the Territory · Crafting Interpreters_files/mountain.png",
     "Programming/Compilers/Crafiting Interpreters/assets/A Map of the Territory · Crafting Interpreters_files/logotype.png",
-    "Programming/Compilers/Crafiting Interpreters/assets/A Map of the Territory · Crafting Interpreters_files/js",
     "Programming/Compilers/Crafiting Interpreters/assets/A Map of the Territory · Crafting Interpreters_files/ast.png",
     "Programming/Compilers/Crafiting Interpreters/assets/string.png",
-    "Programming/Programming.md",
-    "OS/Linux/Linux.md",
     "OS/POSIX.md",
     "Data Structure/Linked List.md",
     "OS/OS.md",
-    "Programming/CSHARP .NET/CSHARP.md",
-    "Network/Internet.md",
-    "OS/Windows/Windows.md",
-    "OS/UNIX.md",
-    "Data Structure/Array.md",
-    "Data Structure/Data Structure.md",
-    "OS/Windows/PowerShell.md",
-    "OS/Linux/CLI.md",
-    "Programming/Elixir.md",
-    "Algorithms/Algorithms.md",
-    "OS/Linux/Coding Setup.md",
-    "OS/Linux/Systemd.md",
-    "Untitled.canvas"
+    "Programming/CSHARP .NET/CSHARP.md"
   ]
 }
