@@ -1,7 +1,7 @@
 [[Elixir]] modules provide a way to organize a group of functions in namespaces and allow to define private functions.
 
 ## Import
-To have access and use [[Functions]] and [[Macros]] of a module, initially  we need to import the module:
+To have access and use [[Programming/Elixir/Functions]] and [[Macros]] of a module, initially  we need to import the module:
 ```rb
 import List
 ```
