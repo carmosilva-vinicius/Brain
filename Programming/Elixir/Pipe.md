@@ -1,4 +1,4 @@
-The pipe operator `|>` passes the result of an expression as the first parameter of another expression.
+In [[Elixir]], the pipe operator `|>` passes the result of an expression as the first parameter of another expression.
 ```rb
 iex(5)> Enum.sum(Enum.filter(Enum.map(1..10, &(&1 * 5)), &Integer.is_even(&1)))
 150

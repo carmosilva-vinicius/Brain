@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "204ab08fc491b71c",
+        "id": "95e95a20b254d45c",
         "type": "tabs",
         "children": [
           {
-            "id": "aa145985b0a3861c",
+            "id": "cffaf244f4713612",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Rust/Control structure.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 246.5
   },
   "right": {
     "id": "4c6be302c9c205d6",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Programming/Rust/Control structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Programming/Rust/Control structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Programming/Rust/Control structure.md"
+              }
             }
           },
           {
@@ -148,21 +156,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa145985b0a3861c",
+  "active": "cffaf244f4713612",
   "lastOpenFiles": [
-    "Programming/Elixir/Basics.md",
-    "Programming/Elixir/Enums.md",
-    "Programming/Elixir/Elixir.md",
+    "Programming/Rust/Rust.md",
     "Programming/Elixir/Pipe.md",
+    "Programming/Rust/Control structure.md",
+    "Programming/Rust/Types.md",
+    "Programming/Elixir/Elixir.md",
+    "Programming/Elixir/Basics.md",
+    "Programming/Rust/Scope and Shadowing.md",
+    "Programming/Rust/Functions.md",
+    "Untitled.canvas",
+    "Data Structure/Tree.md",
+    "Algorithms/Algorithms.md",
+    "Programming/Elixir/Enums.md",
     "Programming/Elixir/Functions.md",
     "Programming/Elixir/Guard clauses.md",
-    "Programming/Rust/Functions.md",
-    "Programming/Rust/Scope and Shadowing.md",
-    "Programming/Rust/Types.md",
-    "Programming/Rust/Rust.md",
     "Programming/Elixir/Control Structure.md",
     "Programming/Elixir/Pattern matching.md",
-    "Untitled.canvas",
     "Database/Redis/Redis.md",
     "OS/Linux/Coding Setup.md",
     "Database/Redis",
@@ -176,15 +187,12 @@
     "Programming/CSHARP .NET/ASP.NET/Entity Framework.md",
     "Programming/Programming.md",
     "OS/Linux/CLI.md",
-    "Programming/C/C.md",
     "Programming/Rust",
     "Programming/Elixir",
-    "Programming/Compilers/Crafiting Interpreters/Crafting Interpreters.md",
     "Programming/CSHARP .NET/ASP.NET",
     "Programming/CSHARP .NET/ASP.NET/Performance",
     "Web/Performance",
     "Web",
-    "Programming/Java/Java.md",
     "Programming/Compilers/Crafiting Interpreters/assets/ast.png",
     "Programming/Compilers/Crafiting Interpreters/assets/ast.png.opdownload",
     "Programming/Compilers/Crafiting Interpreters/assets/tokens.png",
