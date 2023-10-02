@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "90482441b7174eea",
+        "id": "204ab08fc491b71c",
         "type": "tabs",
         "children": [
           {
-            "id": "2a2d1792592851fa",
+            "id": "aa145985b0a3861c",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -148,17 +148,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2a2d1792592851fa",
+  "active": "aa145985b0a3861c",
   "lastOpenFiles": [
+    "Programming/Elixir/Basics.md",
+    "Programming/Elixir/Enums.md",
+    "Programming/Elixir/Elixir.md",
+    "Programming/Elixir/Pipe.md",
+    "Programming/Elixir/Functions.md",
     "Programming/Elixir/Guard clauses.md",
     "Programming/Rust/Functions.md",
     "Programming/Rust/Scope and Shadowing.md",
     "Programming/Rust/Types.md",
     "Programming/Rust/Rust.md",
-    "Programming/Elixir/Basics.md",
     "Programming/Elixir/Control Structure.md",
-    "Programming/Elixir/Elixir.md",
-    "Programming/Elixir/Functions.md",
     "Programming/Elixir/Pattern matching.md",
     "Untitled.canvas",
     "Database/Redis/Redis.md",
@@ -183,8 +185,6 @@
     "Web/Performance",
     "Web",
     "Programming/Java/Java.md",
-    "Data Structure/Tree.md",
-    "Programming/Compilers/Compilers.md",
     "Programming/Compilers/Crafiting Interpreters/assets/ast.png",
     "Programming/Compilers/Crafiting Interpreters/assets/ast.png.opdownload",
     "Programming/Compilers/Crafiting Interpreters/assets/tokens.png",

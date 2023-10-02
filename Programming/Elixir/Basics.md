@@ -198,3 +198,47 @@ defmodule MeuModulo.Loop do
   end
 end
 ```
+
+## Working with files
+The function read of the File module return a tuple with the `:error` or `:ok` with the content.
+Here is an example of how to capture the error.
+```rb
+defmodule MeuModulo.Arquivos do
+	def ler(arquivo) do
+		{:error, erro} = File.read(arquivo)
+		erro
+	end
+end
+```
+
+```rb
+#arquivo inexistente
+iex(1)> MeuModulo.Arquivos.ler("teste")
+:enoent
+
+#arquivo sem permissão
+iex(2)> MeuModulo.Arquivos.ler("arquivo")
+:eacces
+```
+
+We also can return just the content string and throw an exception in case of some error:
+```rb
+defmodule MeuModulo.Arquivos do
+	def ler(arquivo) do
+		File.read!(arquivo)
+	end
+end
+```
+A more complete example:
+```rb
+defmodule MeuModulo.Arquivos do
+	def ler(arquivo) do
+		case File.read(arquivo) do
+			{:ok, conteudo} -> conteudo
+			{:error, :enoent} -> "Arquivo inexistente"
+			{:error, :eacces} -> "Sem permissão de leitura"
+			_ -> "Erro desconhecido"
+		end
+	end
+end
+```
