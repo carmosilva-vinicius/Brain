@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "95e95a20b254d45c",
+        "id": "6d266f7c25134865",
         "type": "tabs",
         "children": [
           {
-            "id": "cffaf244f4713612",
+            "id": "2514fcd4260ade92",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Rust/Control structure.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Rust/Control structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Rust/Control structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Programming/Rust/Control structure.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,37 +148,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cffaf244f4713612",
+  "active": "2514fcd4260ade92",
   "lastOpenFiles": [
+    "Programming/Rust/Cargo.md",
+    "Programming/Rust/Error handling.md",
+    "Programming/Rust/Pattern Matching.md",
+    "Programming/Rust/Ownership.md",
+    "Programming/Rust/Control structure.md",
+    "Programming/Rust/Functions.md",
+    "Programming/Rust/Types.md",
+    "Programming/Rust/Scope and Shadowing.md",
+    "Programming/Elixir/Basics.md",
+    "Programming/Elixir/Elixir.md",
+    "Programming/Elixir/Control Structure.md",
+    "Programming/Elixir/Modules.md",
+    "Programming/Elixir/Pattern matching.md",
+    "Data Structure/Data Structure.md",
+    "Data Structure/Linked List.md",
+    "Data Structure/Array.md",
+    "Data Structure/Tree.md",
+    "OS/OS.md",
+    "OS/Memory Management.md",
     "Programming/Rust/Rust.md",
     "Programming/Elixir/Pipe.md",
-    "Programming/Rust/Control structure.md",
-    "Programming/Rust/Types.md",
-    "Programming/Elixir/Elixir.md",
-    "Programming/Elixir/Basics.md",
-    "Programming/Rust/Scope and Shadowing.md",
-    "Programming/Rust/Functions.md",
     "Untitled.canvas",
-    "Data Structure/Tree.md",
     "Algorithms/Algorithms.md",
     "Programming/Elixir/Enums.md",
     "Programming/Elixir/Functions.md",
     "Programming/Elixir/Guard clauses.md",
-    "Programming/Elixir/Control Structure.md",
-    "Programming/Elixir/Pattern matching.md",
     "Database/Redis/Redis.md",
-    "OS/Linux/Coding Setup.md",
     "Database/Redis",
     "Database",
-    "OS/Linux/Linux.md",
-    "Programming/CSHARP .NET/ASP.NET/Performance/Serialization.md",
-    "Web/Performance and Optimization.md",
-    "Programming/CSHARP .NET/ASP.NET/Performance/Queries.md",
-    "Programming/Elixir/Macros.md",
-    "Programming/Elixir/Modules.md",
-    "Programming/CSHARP .NET/ASP.NET/Entity Framework.md",
-    "Programming/Programming.md",
-    "OS/Linux/CLI.md",
     "Programming/Rust",
     "Programming/Elixir",
     "Programming/CSHARP .NET/ASP.NET",

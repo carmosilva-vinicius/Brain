@@ -23,7 +23,7 @@ defmodule MeuModulo.Enum do
 end
 ```
 
-Another options is to implement another definitions to the same function. That is similar to **_overloading_**, but it uses [[Pattern matching]], to decide which function will be executed.  So, we can use it to make conditions:
+Another options is to implement another definitions to the same function. That is similar to **_overloading_**, but it uses [[Programming/Elixir/Pattern matching]], to decide which function will be executed.  So, we can use it to make conditions:
 ```rb
 defmodule MeuModulo.Enum do
   def primeiro([]), do: nil
