@@ -202,6 +202,8 @@ end
 ## Working with files
 The function read of the File module return a tuple with the `:error` or `:ok` with the content.
 Here is an example of how to capture the error.
+
+### Reading
 ```rb
 defmodule MeuModulo.Arquivos do
 	def ler(arquivo) do
@@ -241,4 +243,44 @@ defmodule MeuModulo.Arquivos do
 		end
 	end
 end
+```
+
+### Writing
+```rb
+iex(1)> File.write("novo_arquivo", "Conteúdo do novo arquivo")
+:ok
+```
+The `IO`module can also be used:
+```rb
+iex(1)> File.write("novo_arquivo", "Conteúdo do novo arquivo")
+:ok
+iex(2)> arquivo = File.open("um_novo_arquivo", [:write, :utf8])
+{:ok, #PID<0.112.0>}
+iex(3)> IO.write(elem(arquivo, 1), "Escrevendo uma vez")
+:ok
+iex(4)> IO.write(elem(arquivo, 1), "Continuando a escrever")
+:ok
+iex(5)> IO.puts(elem(arquivo, 1), "Mais um pouco")          
+:ok
+iex(6)> IO.puts(elem(arquivo, 1), "Outra linha")  
+:ok
+iex(7)> File.close(elem(arquivo, 1))            
+:ok
+```
+
+### Path
+This is a module that help use to handle paths. Here are some examples:
+```rb
+iex(11)> Path.expand("~/arquivo.txt")
+"/home/vinico/arquivo.txt"
+iex(12)> Path.absname("~/../arquivo.txt")
+"/home/vinico/Documents/dev/research/alura/elixir/modules/arquivos/~/../arquivo.txt"
+iex(13)> Path.join("/Users", "vini.co")  
+"/Users/vini.co"
+iex(14)> Path.join("Users", "vini.co") 
+"Users/vini.co"
+iex(15)> Path.join("Users", "vini.co") |> Path.expand()
+"/home/vinico/Documents/dev/research/alura/elixir/modules/arquivos/Users/vini.co"
+iex(16)> Path.join("/Users", "vini.co") |> Path.expand()
+"/Users/vini.co"
 ```
