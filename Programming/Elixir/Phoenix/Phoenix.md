@@ -1,0 +1,1 @@
+Phoenix is a web development framework written in [[Elixir]] which implements the server-side Model View Controller (MVC) pattern. 

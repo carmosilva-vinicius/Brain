@@ -1,0 +1,2 @@
+## ets
+ETS stands for Erlang Term Storage. It is a powerful storage engine built into OTP (Open Telecom Platform) and is available to use in both Erlang and Elixir. ETS allows you to store and retrieve data efficiently in memory, making it suitable for applications that require in-memory storage of runtime data.

@@ -1,3 +1,4 @@
+Language that runs in the Bean, the [[Erlang]] virtual machine.
 ## Collections
 
 ### List
