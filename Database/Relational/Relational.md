@@ -1,0 +1,3 @@
+A **relational database** is a type of database that stores and organizes data in a structured way. It uses a structure that allows data to be identified and accessed in relation to other data in the database. Data in a [relational database](https://roadmap.sh/sql) is stored in various data tables, each of which has a unique key identifying every row.
+
+Relational databases are made up of a set of tables with data that fits into a predefined category. Each table has at least one data category in a column, and each row contains a certain data instance for the categories defined in the columns.
