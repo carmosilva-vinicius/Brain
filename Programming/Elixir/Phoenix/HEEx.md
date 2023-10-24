@@ -1,0 +1,1 @@
+HEEx, which stands for HTML+EEx, is a template language used in the [[Phoenix]] framework of the Elixir programming language. It is an extension of EEx (Embedded Elixir), which is a library for embedding Elixir code inside strings [1](https://hexdocs.pm/phoenix/components.html)[2](https://studioindie.co/blog/heex-guide/).

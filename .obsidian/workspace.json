@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Elixir/Phoenix/Routing.md",
+                "file": "Programming/Elixir/Phoenix/HEEx.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Elixir/Phoenix/Routing.md",
+                "file": "Programming/Elixir/Phoenix/HEEx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Elixir/Phoenix/Routing.md",
+                "file": "Programming/Elixir/Phoenix/HEEx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Elixir/Phoenix/Routing.md"
+                "file": "Programming/Elixir/Phoenix/HEEx.md"
               }
             }
           },
@@ -158,10 +158,12 @@
   },
   "active": "864b9341e9d7414e",
   "lastOpenFiles": [
-    "Programming/Elixir/Phoenix/Plug.md",
-    "Programming/Elixir/Phoenix/Routing.md",
-    "Clean Code.md",
+    "Programming/Elixir/Phoenix/Controllers.md",
+    "Programming/Elixir/Phoenix/HEEx.md",
     "Programming/Elixir/Phoenix/Phoenix.md",
+    "Programming/Elixir/Phoenix/Routing.md",
+    "Programming/Elixir/Phoenix/Plug.md",
+    "Clean Code.md",
     "DevOps/Container/Docker.md",
     "Web/Internet.md",
     "Network/DNS.md",
@@ -189,8 +191,6 @@
     "Programming/Elixir/ExUnit",
     "Programming/Elixir/Phoenix",
     "Programming/Elixir/Process.md",
-    "0.md",
-    "Programming/Elixir/Compiler.md",
     "Untitled.canvas",
     "Database/Redis",
     "Database",
