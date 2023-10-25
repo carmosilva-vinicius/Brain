@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Elixir/Phoenix/HEEx.md",
+                "file": "Programming/Elixir/Phoenix/Components and HEEx.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Elixir/Phoenix/HEEx.md",
+                "file": "Programming/Elixir/Phoenix/Components and HEEx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Elixir/Phoenix/HEEx.md",
+                "file": "Programming/Elixir/Phoenix/Components and HEEx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Elixir/Phoenix/HEEx.md"
+                "file": "Programming/Elixir/Phoenix/Components and HEEx.md"
               }
             }
           },
@@ -156,7 +156,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bd76018b1e0d0dcf",
+  "active": "459fc2b88957822f",
   "lastOpenFiles": [
     "Desktop/SAP/DI API.md",
     "Desktop/SAP/Business One SDK.md",
@@ -166,7 +166,7 @@
     "Desktop",
     "Programming/CSHARP/CSHARP.md",
     "Programming/CSHARP/dotNET",
-    "Programming/Elixir/Phoenix/HEEx.md",
+    "Programming/Elixir/Phoenix/Components and HEEx.md",
     "Programming/Elixir/Phoenix/Controllers.md",
     "Programming/Elixir/Phoenix/Phoenix.md",
     "Programming/Elixir/Phoenix/Routing.md",
