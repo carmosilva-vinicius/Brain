@@ -37,7 +37,6 @@
 		▪ Formatted Searches
 		▪ MultiLanguageTranslations
 		▪ UserQueries
-
 ## Database Connection
 Follow these steps to establish a connection to a database:
 ▪ First define a variable for the Company object.
@@ -78,3 +77,11 @@ catch (Exception errMsg)
 	throw errMsg;
 }
 ```
+
+## Business object
+Examples of business objects include the following:
+▪ Item master data
+▪ Business partner master data
+▪ Product tree objects
+▪ Documents (for example, Sales and Purchasing documents)
+▪ Payments object

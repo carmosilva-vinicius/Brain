@@ -1,0 +1,1 @@
+.NET is development multi-platform tool that provides the ecosystem to create system to WEB, Mobile, Desktop, Mobile and others. .NET programs could be written in [[CSHARP|C#]], F# and Visual Basic languages.

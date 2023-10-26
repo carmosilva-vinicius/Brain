@@ -1,4 +1,4 @@
-[[Elixir]] modules provide a way to organize a group of functions in namespaces and allow to define private functions.
+[[Elixir]] modules provide a way to organize a group of functions in namespaces and allow to define private functions. Is similar to classes in other languages.
 
 ## Import
 To have access and use [[Programming/Elixir/Functions]] and [[Macros]] of a module, initially  we need to import the module:

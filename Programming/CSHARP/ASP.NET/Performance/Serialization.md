@@ -1,4 +1,4 @@
-Here are some approaches to serialize data using `System.Text.Json`, this is part of .NET [[CSHARP|C#]] framework that in general it presents better [[Performance and Optimization|performance]] than the popular Newtonsoft package. 
+Here are some approaches to serialize data using `System.Text.Json`, this is part of [[dotNET|.NET]] framework that in general it presents better [[Performance and Optimization|performance]] than the popular Newtonsoft package. 
 
 ```csharp
 // Example 1

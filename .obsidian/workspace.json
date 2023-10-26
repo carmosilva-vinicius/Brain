@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5cab4f90c80d9ece",
+        "id": "f0fefb2d517b26d4",
         "type": "tabs",
         "children": [
           {
-            "id": "459fc2b88957822f",
+            "id": "e1396426f4db6922",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Elixir/Phoenix/Components and HEEx.md",
+                "file": "Programming/CSHARP/CSHARP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Elixir/Phoenix/Components and HEEx.md",
+                "file": "Programming/CSHARP/CSHARP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Elixir/Phoenix/Components and HEEx.md",
+                "file": "Programming/CSHARP/CSHARP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Elixir/Phoenix/Components and HEEx.md"
+                "file": "Programming/CSHARP/CSHARP.md"
               }
             }
           },
@@ -156,17 +156,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "459fc2b88957822f",
+  "active": "e1396426f4db6922",
   "lastOpenFiles": [
-    "Desktop/SAP/DI API.md",
-    "Desktop/SAP/Business One SDK.md",
     "Desktop/SAP/SAP.md",
+    "Desktop/SAP/Business One SDK.md",
+    "Programming/CSHARP/CSHARP.md",
+    "Programming/Elixir/Phoenix/Ecto.md",
+    "Database/Relational/SQL Server/Filtering.md",
+    "Programming/Elixir/Pipe.md",
+    "Programming/Elixir/Functions.md",
+    "Programming/Elixir/Modules.md",
+    "Desktop/SAP/DI API.md",
     "Programming/CSHARP/dotNET/dotNET.md",
+    "Programming/CSHARP/ASP.NET/Entity Framework.md",
+    "Programming/CSHARP/ASP.NET/Performance/Serialization.md",
+    "Programming/Elixir/Process.md",
+    "Programming/Elixir/Phoenix/Components and HEEx.md",
     "Desktop/SAP",
     "Desktop",
-    "Programming/CSHARP/CSHARP.md",
     "Programming/CSHARP/dotNET",
-    "Programming/Elixir/Phoenix/Components and HEEx.md",
     "Programming/Elixir/Phoenix/Controllers.md",
     "Programming/Elixir/Phoenix/Phoenix.md",
     "Programming/Elixir/Phoenix/Routing.md",
@@ -177,20 +185,12 @@
     "Network/DNS.md",
     "Web/HTTP.md",
     "Programming/CSHARP/ASP.NET/Performance/Queries.md",
-    "Programming/CSHARP/ASP.NET/Entity Framework.md",
-    "Database/Relational/SQL Server/Filtering.md",
     "Database/Relational/SQL Server/SQL Server.md",
     "DevOps/Container/Container.md",
     "DevOps/Container",
     "DevOps",
-    "Database/Relational/Relational.md",
     "Database/Relational/SQL Server",
-    "Database/NoSQL.md",
     "Database/Relational",
-    "Database/Database.md",
-    "Programming/Elixir/Pattern matching.md",
-    "Programming/Elixir/ExUnit/Mock.md",
-    "Programming/Elixir/ExUnit/ExUnit.md",
     "Programming/Erlang",
     "Programming/Elixir/ExUnit",
     "Programming/Elixir/Phoenix",
