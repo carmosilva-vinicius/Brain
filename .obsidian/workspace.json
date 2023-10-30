@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Elixir/Phoenix/Ecto.md",
+                "file": "Programming/Elixir/Phoenix/Context.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Elixir/Phoenix/Ecto.md",
+                "file": "Programming/Elixir/Phoenix/Context.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Elixir/Phoenix/Ecto.md",
+                "file": "Programming/Elixir/Phoenix/Context.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Elixir/Phoenix/Ecto.md"
+                "file": "Programming/Elixir/Phoenix/Context.md"
               }
             }
           },
@@ -158,10 +158,14 @@
   },
   "active": "6b807fd4036b78c2",
   "lastOpenFiles": [
+    "Programming/Elixir/Phoenix/Phoenix.md",
+    "Programming/Elixir/Phoenix/Ecto.md",
+    "Programming/Elixir/Phoenix/Context.md",
+    "Programming/Elixir/Phoenix/Components and HEEx.md",
+    "Programming/Elixir/Phoenix/JSON and APIs.md",
     "Programming/CSHARP/CSHARP.md",
     "Desktop/SAP/SAP.md",
     "Desktop/SAP/Business One SDK.md",
-    "Programming/Elixir/Phoenix/Ecto.md",
     "Database/Relational/SQL Server/Filtering.md",
     "Programming/Elixir/Pipe.md",
     "Programming/Elixir/Functions.md",
@@ -171,12 +175,10 @@
     "Programming/CSHARP/ASP.NET/Entity Framework.md",
     "Programming/CSHARP/ASP.NET/Performance/Serialization.md",
     "Programming/Elixir/Process.md",
-    "Programming/Elixir/Phoenix/Components and HEEx.md",
     "Desktop/SAP",
     "Desktop",
     "Programming/CSHARP/dotNET",
     "Programming/Elixir/Phoenix/Controllers.md",
-    "Programming/Elixir/Phoenix/Phoenix.md",
     "Programming/Elixir/Phoenix/Routing.md",
     "Programming/Elixir/Phoenix/Plug.md",
     "Clean Code.md",
@@ -185,8 +187,6 @@
     "Network/DNS.md",
     "Web/HTTP.md",
     "Programming/CSHARP/ASP.NET/Performance/Queries.md",
-    "Database/Relational/SQL Server/SQL Server.md",
-    "DevOps/Container/Container.md",
     "DevOps/Container",
     "DevOps",
     "Database/Relational/SQL Server",
