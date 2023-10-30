@@ -1,0 +1,4 @@
+Are dedicated modules to organize related functionality, providing a better application design. In [[Phoenix]], contexts often encapsulate data access and data validation. They often talk to a database or APIs.
+
+Phoenix includes the [`mix phx.gen.html`](https://hexdocs.pm/phoenix/Mix.Tasks.Phx.Gen.Html.html), [`mix phx.gen.json`](https://hexdocs.pm/phoenix/Mix.Tasks.Phx.Gen.Json.html), [`mix phx.gen.live`](https://hexdocs.pm/phoenix/Mix.Tasks.Phx.Gen.Live.html), and [`mix phx.gen.context`](https://hexdocs.pm/phoenix/Mix.Tasks.Phx.Gen.Context.html) generators that apply the ideas of isolating functionality in our applications into contexts. 
+For example, [`mix phx.gen.html`](https://hexdocs.pm/phoenix/Mix.Tasks.Phx.Gen.Html.html) creates a context module that wraps up [[Ecto]] access for creating, updating, and deleting products, along with web files like controllers and templates for the web interface into our context.
