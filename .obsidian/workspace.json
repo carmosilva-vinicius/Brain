@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f0fefb2d517b26d4",
+        "id": "422fb11e2ed21ae4",
         "type": "tabs",
         "children": [
           {
-            "id": "e1396426f4db6922",
+            "id": "e054df862432f8e0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/CSHARP/CSHARP.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/CSHARP/CSHARP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/CSHARP/CSHARP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Programming/CSHARP/CSHARP.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,17 +148,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e1396426f4db6922",
+  "active": "e054df862432f8e0",
   "lastOpenFiles": [
-    "Desktop/SAP/SAP.md",
+    "Programming/Elixir/Elixir.md",
+    "Desktop/SAP/UI API.md",
+    "Desktop/SAP/assets/add-on-lifecycle.png",
+    "Programming/Compilers/Crafiting Interpreters/Crafting Interpreters.md",
+    "Desktop/SAP/assets/ui-api-objects.png",
     "Desktop/SAP/Business One SDK.md",
+    "Algorithms/Algorithms.md",
+    "Data Structure/Array.md",
+    "Desktop/SAP/assets/ui-api-arch.png",
+    "Desktop/SAP/assets",
+    "Desktop/SAP/DI API.md",
     "Programming/CSHARP/CSHARP.md",
+    "Desktop/SAP/SAP.md",
     "Programming/Elixir/Phoenix/Ecto.md",
     "Database/Relational/SQL Server/Filtering.md",
     "Programming/Elixir/Pipe.md",
     "Programming/Elixir/Functions.md",
     "Programming/Elixir/Modules.md",
-    "Desktop/SAP/DI API.md",
     "Programming/CSHARP/dotNET/dotNET.md",
     "Programming/CSHARP/ASP.NET/Entity Framework.md",
     "Programming/CSHARP/ASP.NET/Performance/Serialization.md",
@@ -182,18 +183,12 @@
     "Clean Code.md",
     "DevOps/Container/Docker.md",
     "Web/Internet.md",
-    "Network/DNS.md",
-    "Web/HTTP.md",
-    "Programming/CSHARP/ASP.NET/Performance/Queries.md",
-    "Database/Relational/SQL Server/SQL Server.md",
-    "DevOps/Container/Container.md",
     "DevOps/Container",
     "DevOps",
     "Database/Relational/SQL Server",
     "Database/Relational",
     "Programming/Erlang",
     "Programming/Elixir/ExUnit",
-    "Programming/Elixir/Phoenix",
     "Untitled.canvas",
     "Programming/Compilers/Crafiting Interpreters/assets/ast.png",
     "Programming/Compilers/Crafiting Interpreters/assets/tokens.png",
@@ -201,9 +196,6 @@
     "Programming/Compilers/Crafiting Interpreters/assets/A Map of the Territory · Crafting Interpreters_files/tokens.png",
     "Programming/Compilers/Crafiting Interpreters/assets/A Map of the Territory · Crafting Interpreters_files/string.png",
     "Programming/Compilers/Crafiting Interpreters/assets/A Map of the Territory · Crafting Interpreters_files/plants.png",
-    "Programming/Compilers/Crafiting Interpreters/assets/A Map of the Territory · Crafting Interpreters_files/mountain.png",
-    "Programming/Compilers/Crafiting Interpreters/assets/A Map of the Territory · Crafting Interpreters_files/logotype.png",
-    "Programming/Compilers/Crafiting Interpreters/assets/A Map of the Territory · Crafting Interpreters_files/ast.png",
-    "Programming/Compilers/Crafiting Interpreters/assets/string.png"
+    "Programming/Compilers/Crafiting Interpreters/assets/A Map of the Territory · Crafting Interpreters_files/mountain.png"
   ]
 }
