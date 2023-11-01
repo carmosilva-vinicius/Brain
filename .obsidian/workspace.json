@@ -11,8 +11,12 @@
             "id": "ce92ef8acb754e9d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Database/Relational/SQL Server/Group.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Database/Relational/SQL Server/Group.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Database/Relational/SQL Server/Group.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Database/Relational/SQL Server/Group.md"
+              }
             }
           },
           {
@@ -150,6 +158,17 @@
   },
   "active": "ce92ef8acb754e9d",
   "lastOpenFiles": [
+    "Database/Relational/SQL Server/Order.md",
+    "Database/Relational/SQL Server/Group.md",
+    "Database/Relational/SQL Server/Filtering.md",
+    "Database/Relational/SQL Server/Basics.md",
+    "Database/Relational/SQL Server/SQL Server.md",
+    "Clean Code.md",
+    "Web/Performance and Optimization.md",
+    "Web/Internet.md",
+    "Web/HTTP.md",
+    "Desktop/SAP/Menu Codes.md",
+    "Desktop/SAP/DI API.md",
     "Programming/Elixir/Phoenix/Context.md",
     "Programming/Elixir/Phoenix/Phoenix.md",
     "Programming/Elixir/Phoenix/Ecto.md",
@@ -158,7 +177,6 @@
     "Programming/CSHARP/CSHARP.md",
     "Desktop/SAP/SAP.md",
     "Desktop/SAP/Business One SDK.md",
-    "Database/Relational/SQL Server/Filtering.md",
     "Programming/Elixir/Pipe.md",
     "Programming/Elixir/Functions.md",
     "Programming/Elixir/Modules.md",
@@ -169,15 +187,6 @@
     "Desktop/SAP",
     "Desktop",
     "Programming/CSHARP/dotNET",
-    "Programming/Elixir/Phoenix/Controllers.md",
-    "Programming/Elixir/Phoenix/Routing.md",
-    "Programming/Elixir/Phoenix/Plug.md",
-    "Clean Code.md",
-    "DevOps/Container/Docker.md",
-    "Web/Internet.md",
-    "Network/DNS.md",
-    "Web/HTTP.md",
-    "Programming/CSHARP/ASP.NET/Performance/Queries.md",
     "DevOps/Container",
     "DevOps",
     "Database/Relational/SQL Server",
