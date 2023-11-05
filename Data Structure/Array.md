@@ -55,7 +55,7 @@ public int Size(){
 ```
 
 #### Example
-Here are complete example in [[CSHARP|C#]] of an array implementation with some utils methods:
+Here are complete example in  in [[CSHARP|C#]] of an array implementation with some utils methods:
 ```cs
 public class Vector
 

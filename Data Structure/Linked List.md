@@ -49,7 +49,7 @@ public class LinkedListExample
 }
 ```
 
-## Implementation of LinkedList in CShharp
+## Implementation of LinkedList in [[CSHARP|C#]]
 ```cs
 public class ListaLigada
 {
