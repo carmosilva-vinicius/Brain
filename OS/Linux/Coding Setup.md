@@ -32,6 +32,9 @@ In the command mode, something can be saved using `:w /tmp/test.cs`, where it me
 In the command mode, the `h`, `j`, `k` and `l` can be user as arrows to navigate in the content, where h is left, l is right, k is up and j is down. It is possible combine those with numbers to repeat some times automatically, for example `10k` navigates up ten lines  
 `gg` navigate to the top(first line) of content and `G` to the end(last line).
 
+## LunarVIim
+- `Ctrl+h` : Navigate to file tree (left);
+- `Ctrl+l`: Navigate to text editor (right);
 ## GVim
 - `Ctrl+w s` : Split the terminal horizontally;
 - `Ctrl+w v`: Split the terminal vertically;
