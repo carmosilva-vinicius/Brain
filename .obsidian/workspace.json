@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "755b4992ba762adb",
+        "id": "f76832965163b4f4",
         "type": "tabs",
         "children": [
           {
-            "id": "51ed20e7111bf191",
+            "id": "ee173e5b335166b5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web/Server/Nginx.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Server/Nginx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/Server/Nginx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Web/Server/Nginx.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,9 +148,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "51ed20e7111bf191",
+  "active": "ee173e5b335166b5",
   "lastOpenFiles": [
+    "Database/Relational/Relational.md",
+    "Web/HTTP.md",
+    "Database/Management/Full-text search.md",
+    "Database/Management/Bulk Insert.md",
+    "Web/Performance and Optimization.md",
+    "Database/Relational/PostgreSQL/PostgreSQL.md",
+    "Database/Relational/PostgreSQL/GiST and GIN.md",
+    "Database/Relational/SQL Server/Filtering.md",
+    "Database/Relational/PostgreSQL/Index.md",
+    "Database/Database.md",
+    "Database/Relational/PostgreSQL",
     "Web/Server/Nginx.md",
+    "Database/Management",
     "Web/Server",
     "OS/Linux/Coding Setup.md",
     "Programming/Rust/Types.md",
@@ -176,24 +180,12 @@
     "Programming/Rust/Pattern Matching.md",
     "Programming/Rust/Rust.md",
     "Programming/Rust/Cargo.md",
-    "Data Structure/Stack.md",
-    "Data Structure/Queue.md",
-    "Data Structure/Tree.md",
-    "Data Structure/Array.md",
-    "Data Structure/Linked List.md",
-    "Data Structure/Data Structure.md",
-    "Database/Relational/Relational.md",
-    "Programming/Elixir/Phoenix/JSON and APIs.md",
-    "Programming/Elixir/Phoenix/Json and APIS.md",
-    "Programming/Elixir/Phoenix/Context.md",
     "Desktop/SAP",
     "Desktop",
     "Programming/CSHARP/dotNET",
     "DevOps/Container",
     "DevOps",
     "Database/Relational/SQL Server",
-    "Database/Relational",
-    "Programming/Erlang",
     "Untitled.canvas",
     "Programming/Compilers/Crafiting Interpreters/assets/ast.png",
     "Programming/Compilers/Crafiting Interpreters/assets/tokens.png",
