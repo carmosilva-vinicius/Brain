@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9a8d876083e60fa3",
+        "id": "755b4992ba762adb",
         "type": "tabs",
         "children": [
           {
-            "id": "a0d90bf9efd755b1",
+            "id": "51ed20e7111bf191",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/CSHARP/Aulas/CSHARP Série.md",
+                "file": "Web/Server/Nginx.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/CSHARP/Aulas/CSHARP Série.md",
+                "file": "Web/Server/Nginx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/CSHARP/Aulas/CSHARP Série.md",
+                "file": "Web/Server/Nginx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/CSHARP/Aulas/CSHARP Série.md"
+                "file": "Web/Server/Nginx.md"
               }
             }
           },
@@ -156,13 +156,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a0d90bf9efd755b1",
+  "active": "51ed20e7111bf191",
   "lastOpenFiles": [
-    "Programming/CSHARP/CSHARP.md",
-    "Programming/CSHARP/Aulas/CSHARP Série.md",
-    "Programming/CSHARP/Aulas",
+    "Web/Server/Nginx.md",
+    "Web/Server",
     "OS/Linux/Coding Setup.md",
     "Programming/Rust/Types.md",
+    "Programming/Elixir/Control Structure.md",
+    "Programming/Elixir/Pattern matching.md",
+    "Programming/Rust/Arrays.md",
+    "Programming/CSHARP/dotNET/Setup.md",
+    "Programming/CSHARP/Aulas/CSHARP Série.md",
+    "Programming/C/C.md",
+    "Programming/CSHARP/CSHARP.md",
+    "Programming/CSHARP/Aulas",
     "Programming/Rust/Control structure.md",
     "Programming/Rust/Error handling.md",
     "Programming/Rust/Scope and Shadowing.md",
@@ -179,12 +186,6 @@
     "Programming/Elixir/Phoenix/JSON and APIs.md",
     "Programming/Elixir/Phoenix/Json and APIS.md",
     "Programming/Elixir/Phoenix/Context.md",
-    "Database/Relational/SQL Server/Group.md",
-    "Database/Relational/SQL Server/Order.md",
-    "Database/Relational/SQL Server/Filtering.md",
-    "Database/Relational/SQL Server/Basics.md",
-    "Database/Relational/SQL Server/SQL Server.md",
-    "Clean Code.md",
     "Desktop/SAP",
     "Desktop",
     "Programming/CSHARP/dotNET",
@@ -193,7 +194,6 @@
     "Database/Relational/SQL Server",
     "Database/Relational",
     "Programming/Erlang",
-    "Programming/Elixir/ExUnit",
     "Untitled.canvas",
     "Programming/Compilers/Crafiting Interpreters/assets/ast.png",
     "Programming/Compilers/Crafiting Interpreters/assets/tokens.png",

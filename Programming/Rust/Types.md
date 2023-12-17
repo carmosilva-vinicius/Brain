@@ -1,4 +1,4 @@
-In [[Rust]] we have:
+	In [[Rust]] we have:
 - [never](https://doc.rust-lang.org/std/primitive.never.html "primitive std::never")Experimental: The `!` type, also called “never”.
 - [array](https://doc.rust-lang.org/std/primitive.array.html "primitive std::array"): A fixed-size array, denoted `[T; N]`, for the element type, `T`, and the non-negative compile-time constant size, `N`.
 - [bool](https://doc.rust-lang.org/std/primitive.bool.html "primitive std::bool"): The boolean type.
@@ -82,3 +82,23 @@ fn main() {
 	println!("GLOBAL: {}", {GLOBAL});
 }
 ```
+
+## Usize and Isize
+In Rust, `usize` and `isize` are types that are used to represent sizes and counts. They are unsigned and signed integer types that are used for indexing and size computations.
+
+- `usize`: This type is an unsigned integer type that is used for indexing collections. It is the type returned by the `len` method on collections. The size of `usize` is platform dependent. On a 32-bit platform, it is 32 bits, and on a 64-bit platform, it is 64 bits. This means that `usize` can represent a larger range of numbers on a 64-bit platform compared to a 32-bit platform.
+
+- `isize`: This type is a signed integer type that is used for indexing collections. It is the type returned by the `len` method on collections. The size of `isize` is also platform dependent, but it is always signed. Like `usize`, the size of `isize` is 32 bits on a 32-bit platform and 64 bits on a 64-bit platform.
+
+Here is an example of how you might use `usize` and `isize`:
+
+```rust
+let array: [i32; 5] = [1, 2, 3, 4, 5]; let len: usize = array.len(); // len is 5 let index: isize = -1; // index is -1
+```
+
+
+In this example, `len` is a `usize` and `index` is an `isize`. The `len` method returns the length of the array as a `usize`, and `index` is a negative number, so it is an `isize`.
+
+Please note that these types are primarily used for indexing and size computations, and should not be used for arithmetic operations. If you need to perform arithmetic operations, you should use the appropriate integer types (`i32`, `i64`, etc.) instead.
+
+Remember that the size of these types is platform dependent, so they can have different sizes on different platforms. Always check the size of these types on your target platform if you need to ensure that your code behaves consistently across different platforms.

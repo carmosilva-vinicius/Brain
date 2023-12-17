@@ -35,6 +35,7 @@ In the command mode, the `h`, `j`, `k` and `l` can be user as arrows to navigate
 ## LunarVIim
 - `Ctrl+h` : Navigate to file tree (left);
 - `Ctrl+l`: Navigate to text editor (right);
+- `:Lazy`: Show all plugins; (`gb` to load plugins)
 ## GVim
 - `Ctrl+w s` : Split the terminal horizontally;
 - `Ctrl+w v`: Split the terminal vertically;
