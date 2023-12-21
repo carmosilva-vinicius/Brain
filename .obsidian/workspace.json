@@ -11,8 +11,12 @@
             "id": "ee173e5b335166b5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "OS/Linux/Coding Setup.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "OS/Linux/Coding Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "OS/Linux/Coding Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "OS/Linux/Coding Setup.md"
+              }
             }
           },
           {
@@ -150,6 +158,11 @@
   },
   "active": "ee173e5b335166b5",
   "lastOpenFiles": [
+    "Database/Relational/SQL Server/Filtering.md",
+    "Database/Relational/SQL Server/Group.md",
+    "Database/Relational/SQL Server/Order.md",
+    "Database/Relational/SQL Server/SQL Server.md",
+    "Database/Relational/SQL Server/Basics.md",
     "Database/Relational/Relational.md",
     "Web/HTTP.md",
     "Database/Management/Full-text search.md",
@@ -157,7 +170,6 @@
     "Web/Performance and Optimization.md",
     "Database/Relational/PostgreSQL/PostgreSQL.md",
     "Database/Relational/PostgreSQL/GiST and GIN.md",
-    "Database/Relational/SQL Server/Filtering.md",
     "Database/Relational/PostgreSQL/Index.md",
     "Database/Database.md",
     "Database/Relational/PostgreSQL",
@@ -176,10 +188,6 @@
     "Programming/CSHARP/Aulas",
     "Programming/Rust/Control structure.md",
     "Programming/Rust/Error handling.md",
-    "Programming/Rust/Scope and Shadowing.md",
-    "Programming/Rust/Pattern Matching.md",
-    "Programming/Rust/Rust.md",
-    "Programming/Rust/Cargo.md",
     "Desktop/SAP",
     "Desktop",
     "Programming/CSHARP/dotNET",
