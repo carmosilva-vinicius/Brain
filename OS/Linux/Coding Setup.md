@@ -1,9 +1,10 @@
 Here are some tools to write code and run [[CLI]] commands in a [[Linux]] system. 
 # TMUX
-- `Ctrl+b %` : Split the terminal horizontally;
-- `Ctrl+b "`: Split the terminal vertically;
-- `Ctrl+b o` : Navigate to another panel;
-- `Ctrl+b arrow` : Navigate to arrow direction panel;
+- `Ctrl + b %` : Split the terminal horizontally;
+- `Ctrl + b "`: Split the terminal vertically;
+- `Ctrl + b o` : Navigate to another panel;
+- `Ctrl + b [` : Enable Scroll mode (`q` to quit);
+- `Ctrl + b arrow` : Navigate to arrow direction panel;
 - `Ctrl + b + arrow` : Resize in arrow direction;
 - `Ctrl+b d` : Remove a panel;
 - `tmux ls`: List the active sections;

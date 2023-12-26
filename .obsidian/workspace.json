@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f76832965163b4f4",
+        "id": "6eceae27975dd703",
         "type": "tabs",
         "children": [
           {
-            "id": "ee173e5b335166b5",
+            "id": "4e8e41c893f78dfe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/Linux/Coding Setup.md",
+                "file": "Programming/Go/Struct.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS/Linux/Coding Setup.md",
+                "file": "Programming/Go/Struct.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS/Linux/Coding Setup.md",
+                "file": "Programming/Go/Struct.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OS/Linux/Coding Setup.md"
+                "file": "Programming/Go/Struct.md"
               }
             }
           },
@@ -156,8 +156,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee173e5b335166b5",
+  "active": "4e8e41c893f78dfe",
   "lastOpenFiles": [
+    "Programming/Go/Control Structure.md",
+    "Programming/Go/Struct.md",
+    "Programming/CSHARP/dotNET/Work with Strings.md",
+    "Programming/Go/String.md",
+    "Programming/Rust/Control structure.md",
+    "Programming/Elixir/Control Structure.md",
+    "Programming/Go/Numbers.md",
+    "Programming/Go/Go.md",
+    "Programming/Go",
+    "OS/Linux/Coding Setup.md",
+    "Programming/Rust/Pattern Matching.md",
     "Database/Relational/SQL Server/Filtering.md",
     "Database/Relational/SQL Server/Group.md",
     "Database/Relational/SQL Server/Order.md",
@@ -176,24 +187,13 @@
     "Web/Server/Nginx.md",
     "Database/Management",
     "Web/Server",
-    "OS/Linux/Coding Setup.md",
     "Programming/Rust/Types.md",
-    "Programming/Elixir/Control Structure.md",
-    "Programming/Elixir/Pattern matching.md",
-    "Programming/Rust/Arrays.md",
-    "Programming/CSHARP/dotNET/Setup.md",
-    "Programming/CSHARP/Aulas/CSHARP Série.md",
-    "Programming/C/C.md",
-    "Programming/CSHARP/CSHARP.md",
     "Programming/CSHARP/Aulas",
-    "Programming/Rust/Control structure.md",
-    "Programming/Rust/Error handling.md",
     "Desktop/SAP",
     "Desktop",
     "Programming/CSHARP/dotNET",
     "DevOps/Container",
     "DevOps",
-    "Database/Relational/SQL Server",
     "Untitled.canvas",
     "Programming/Compilers/Crafiting Interpreters/assets/ast.png",
     "Programming/Compilers/Crafiting Interpreters/assets/tokens.png",
