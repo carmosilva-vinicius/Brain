@@ -1,4 +1,5 @@
-	In [[Rust]] we have:
+In [[Rust]] we have:
+
 - [never](https://doc.rust-lang.org/std/primitive.never.html "primitive std::never")Experimental: The `!` type, also called “never”.
 - [array](https://doc.rust-lang.org/std/primitive.array.html "primitive std::array"): A fixed-size array, denoted `[T; N]`, for the element type, `T`, and the non-negative compile-time constant size, `N`.
 - [bool](https://doc.rust-lang.org/std/primitive.bool.html "primitive std::bool"): The boolean type.

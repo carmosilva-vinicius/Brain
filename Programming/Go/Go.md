@@ -2,7 +2,7 @@
 - Easy to learn and great for teams
 - Built-in concurrency and a robust standard library
 - Large ecosystem of partners, communities, and tools
-
+Almost all contento of markdown Go content present here comes from [Exercism](https://exercism.org/tracks/go)
 # Hello world
 ```go
 package greeting

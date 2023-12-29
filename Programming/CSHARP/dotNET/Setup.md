@@ -1,4 +1,5 @@
 # Manjaro Setup
+[[dotNET]] Manjaro [[Linux]] setup
 
 ## With source and script intallation:
 

@@ -1,3 +1,4 @@
+[[SQL Server]]
 ## Order By
 is used to sort the result set in either ascending or descending order based on one or more columns. It is typically used in conjunction with the SELECT statement to control the order in which the rows are returned.
 ```sql
