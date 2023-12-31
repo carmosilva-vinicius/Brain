@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "46a5e828c3d06e17",
+        "id": "40761f2bf58c4102",
         "type": "tabs",
         "children": [
           {
-            "id": "23bd2217da1469af",
+            "id": "3df64d1653617bdf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Go/Map.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Go/Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Go/Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Programming/Go/Map.md"
-              }
+              "state": {}
             }
           },
           {
@@ -158,8 +150,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "23bd2217da1469af",
+  "active": "3df64d1653617bdf",
   "lastOpenFiles": [
+    "Programming/CSHARP/CSHARP.md",
+    "Network/DNS.md",
+    "Programming/CSHARP/Methods/Method overloading.md",
+    "Programming/CSHARP/Methods/Parameters.md",
+    "Programming/CSHARP/Methods/Methods.md",
+    "Programming/CSHARP/Operator Overloading.md",
+    "Programming/CSHARP/Methods",
+    "Web/Message Queue/RabbitMQ.md",
+    "Web/Message Queue/Message Queue.md",
+    "Web/Message Queue",
+    "Database/Redis/Redis.md",
+    "Web/Cache.md",
+    "Database/Database.md",
+    "Database/Relational/Relational.md",
     "Programming/Go/Map.md",
     "Programming/Go/Go.md",
     "Programming/Go/Functions.md",
@@ -174,19 +180,7 @@
     "OS/Linux/Coding Setup.md",
     "Data Structure/Array.md",
     "Programming/Go/Struct.md",
-    "Programming/CSHARP/dotNET/Work with Strings.md",
-    "Programming/Go/String.md",
-    "Programming/Rust/Control structure.md",
-    "Programming/Elixir/Control Structure.md",
-    "Programming/Go/Numbers.md",
     "Programming/Go",
-    "Programming/Rust/Pattern Matching.md",
-    "Database/Relational/SQL Server/Filtering.md",
-    "Database/Relational/SQL Server/Group.md",
-    "Database/Relational/SQL Server/SQL Server.md",
-    "Database/Relational/SQL Server/Basics.md",
-    "Database/Relational/Relational.md",
-    "Web/HTTP.md",
     "Database/Relational/PostgreSQL",
     "Database/Management",
     "Web/Server",
@@ -194,8 +188,6 @@
     "Desktop/SAP",
     "Desktop",
     "Programming/CSHARP/dotNET",
-    "DevOps/Container",
-    "DevOps",
     "Untitled.canvas",
     "Programming/Compilers/Crafiting Interpreters/assets/ast.png",
     "Programming/Compilers/Crafiting Interpreters/assets/tokens.png",

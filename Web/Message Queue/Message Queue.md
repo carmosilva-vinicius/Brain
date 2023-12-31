@@ -1,0 +1,3 @@
+A message queue is a form of asynchronous service-to-service communication used in serverless and microservices architectures. Messages are stored on the queue until they are processed and deleted. Each message is processed only once, by a single consumer. Message queues can be used to decouple heavyweight processing, to buffer or batch work, and to smooth spiky workloads. ([source](https://aws.amazon.com/message-queue/))
+
+Asynchronous services are easier to scale, as the messaging service performs data queuing, eliminating the need for services to worry about concurrence and loss of information, since the messaging system also facilitates retry processes.
