@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e0ce4982d57f67eb",
+            "id": "227393f4c1c8b9b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structure/Tree.md",
+                "file": "Data Structure/Tree/Binary Tree.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structure/Tree.md",
+                "file": "Data Structure/Tree/Binary Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structure/Tree.md",
+                "file": "Data Structure/Tree/Binary Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structure/Tree.md"
+                "file": "Data Structure/Tree/Binary Tree.md"
               }
             }
           },
@@ -158,10 +158,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e0ce4982d57f67eb",
+  "active": "227393f4c1c8b9b8",
   "lastOpenFiles": [
+    "Data Structure/assets/binarytree.png",
+    "Data Structure/assets/binarytree.png.crdownload",
+    "Desktop/SAP/UI API.md",
+    "Data Structure/Tree/Binary Tree.md",
+    "Data Structure/Tree/Tree.md",
+    "Data Structure/Tree/Binary Search Tree.md",
+    "Data Structure/Tree",
+    "Desktop/SAP/SAP.md",
+    "Desktop/SAP/Menu Codes.md",
+    "Desktop/SAP/DI API.md",
+    "Desktop/SAP/Business One SDK.md",
+    "Data Structure/assets/Treedatastructure.png",
+    "Data Structure/assets/Treedatastructure.png.crdownload",
+    "Data Structure/assets",
     "Data Structure/Data Structure.md",
-    "Data Structure/Tree.md",
     "Data Structure/Array.md",
     "Data Structure/Stack.md",
     "Data Structure/Queue.md",
@@ -180,22 +193,10 @@
     "Programming/CSHARP/Aulas/CSHARP Série.md",
     "Programming/CSHARP/dotNET/System",
     "Programming/CSHARP/CSHARP.md",
-    "Network/DNS.md",
-    "Programming/CSHARP/Methods/Method overloading.md",
-    "Programming/CSHARP/Methods/Parameters.md",
-    "Programming/CSHARP/Methods/Methods.md",
-    "Programming/CSHARP/Operator Overloading.md",
     "Programming/CSHARP/Methods",
-    "Web/Message Queue/RabbitMQ.md",
-    "Web/Message Queue/Message Queue.md",
     "Web/Message Queue",
-    "Database/Redis/Redis.md",
     "Programming/Go",
     "Database/Relational/PostgreSQL",
-    "Database/Management",
-    "Web/Server",
-    "Programming/CSHARP/Aulas",
-    "Desktop/SAP",
     "Untitled.canvas",
     "Programming/Compilers/Crafiting Interpreters/assets/ast.png",
     "Programming/Compilers/Crafiting Interpreters/assets/tokens.png",
