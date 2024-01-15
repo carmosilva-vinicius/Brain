@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3da90159cc4d3fb0",
+        "id": "8f064a493643d3c5",
         "type": "tabs",
         "children": [
           {
-            "id": "eeb3844c46975edd",
+            "id": "e0ce4982d57f67eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/CSHARP/dotNET/System/IDisposable.md",
+                "file": "Data Structure/Tree.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/CSHARP/dotNET/System/IDisposable.md",
+                "file": "Data Structure/Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/CSHARP/dotNET/System/IDisposable.md",
+                "file": "Data Structure/Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/CSHARP/dotNET/System/IDisposable.md"
+                "file": "Data Structure/Tree.md"
               }
             }
           },
@@ -158,15 +158,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eeb3844c46975edd",
+  "active": "e0ce4982d57f67eb",
   "lastOpenFiles": [
+    "Data Structure/Data Structure.md",
+    "Data Structure/Tree.md",
+    "Data Structure/Array.md",
+    "Data Structure/Stack.md",
+    "Data Structure/Queue.md",
+    "Data Structure/Linked List.md",
+    "Algorithms/Algorithms.md",
+    "OS/Linux/Directory struct/Dev.md",
+    "OS/Linux/Directory struct/Boot.md",
+    "OS/Linux/Directory struct/Directory structure.md",
+    "OS/Linux/Linux.md",
+    "OS/Linux/Directory struct",
+    "OS/Linux/CLI.md",
+    "Programming/CSHARP/dotNET/System/IDisposable.md",
     "Programming/Go/Go.md",
     "Programming/Programming.md",
-    "Programming/CSHARP/dotNET/System/IDisposable.md",
     "Programming/CSHARP/dotNET/System/System.md",
     "Programming/CSHARP/Aulas/CSHARP Série.md",
     "Programming/CSHARP/dotNET/System",
-    "Data Structure/Data Structure.md",
     "Programming/CSHARP/CSHARP.md",
     "Network/DNS.md",
     "Programming/CSHARP/Methods/Method overloading.md",
@@ -178,24 +190,12 @@
     "Web/Message Queue/Message Queue.md",
     "Web/Message Queue",
     "Database/Redis/Redis.md",
-    "Web/Cache.md",
-    "Database/Database.md",
-    "Database/Relational/Relational.md",
-    "Programming/Go/Map.md",
-    "Programming/Go/Functions.md",
-    "README.md",
-    "Programming/Rust/Types.md",
-    "Programming/CSHARP/dotNET/Setup.md",
-    "Database/Relational/SQL Server/Order.md",
-    "Programming/Go/Control Structure.md",
-    "Programming/Go/Slices.md",
     "Programming/Go",
     "Database/Relational/PostgreSQL",
     "Database/Management",
     "Web/Server",
     "Programming/CSHARP/Aulas",
     "Desktop/SAP",
-    "Desktop",
     "Untitled.canvas",
     "Programming/Compilers/Crafiting Interpreters/assets/ast.png",
     "Programming/Compilers/Crafiting Interpreters/assets/tokens.png",

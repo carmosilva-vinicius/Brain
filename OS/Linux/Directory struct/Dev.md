@@ -1,0 +1,1 @@
+Are a [[Directory structure#Root|root]] directory where we can find all devices connected to the machine. The devices can be usb drivers, pen drivers, CD ROMs, etc.
