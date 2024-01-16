@@ -2,7 +2,7 @@ _A **Queue** is defined as a linear data structure that is open at both ends a
 
 We define a queue to be a list in which all additions to the list are made at one end, and all deletions from the list are made at the other end.  The element which is first pushed into the order, the operation is first performed on that.
 
-![https://media.geeksforgeeks.org/wp-content/cdn-uploads/20221213113312/Queue-Data-Structures.png](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20221213113312/Queue-Data-Structures.png)
+![[Queue-Data-Structures.png]]
 
 ### Applications of Queue
 

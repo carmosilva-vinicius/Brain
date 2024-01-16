@@ -4,6 +4,7 @@ Arrays are [[Data Structure#Linear|Linear]] data structure, defined as the colle
 - Elements in the array are stored at contiguous memory locations from which the first element is stored at the smallest memory location.
 - Elements of the array can be randomly accessed since we can calculate the address of each element of the array with the given base address and the size of the data element.
 
+![[Array-data-structure.png]]
 ### Why are arrays required?
 
 - Sorting and searching a value in an array is easier.
@@ -57,79 +58,63 @@ public int Size(){
 #### Example
 Here are complete example in  in [[CSHARP|C#]] of an array implementation with some utils methods:
 ```cs
-public class Vector
-
-{
-	private Aluno[] alunos = new Aluno[100];
-	private int totalAlunos = 0;
-	
-	public void Add(Aluno aluno){
-		increaseCapacity();
-		alunos[totalAlunos] = aluno;
-		totalAlunos++;
-	}
-	
-	private bool ValidPosition(int posicao){
-		return posicao >= 0 && posicao <= totalAlunos;
-	}
-		
-	private void increaseCapacity(){
-		if(totalAlunos == alunos.Length){
-			Aluno[] newArray = new Aluno[alunos.Length * 2];
-			for(int i = 0; i < alunos.Length; i++){
-				newArray[i] = alunos[i];
-			}
-			alunos = newArray;
-		}
-	} 
-	
-	public void Add(int posicao, Aluno aluno){
-		increaseCapacity();
-		if(!ValidPosition(posicao))
-			throw new ArgumentException("Posição inválida");
-		for(int i = totalAlunos - 1; i >= posicao; i--){
-			alunos[i + 1] = alunos[i];
-		}
-		alunos[posicao] = aluno;
-		totalAlunos++;
-	}
-	
-	private bool OccupiedPosition(int posicao){
-		return posicao >= 0 && posicao < totalAlunos;
-	}
-	
-	public Aluno? Get(int index){
-		if(!OccupiedPosition(index))
-			throw new ArgumentException("Posição inválida");
-		return alunos[index];
-	}
-	
-	public void Remove(int position){
-		for(int i = position; i < totalAlunos; i++){
-			alunos[i] = alunos[i + 1];
-		}
-		totalAlunos--;
-	}
-	
-	public bool Contains(Aluno aluno){
-		for(int i = 0; i < totalAlunos; i++){
-			if(alunos[i].Equals(aluno))
-				return true;
-		}
-		return false;
-	}
-	
-	public int Size(){
-		return totalAlunos;
-	}
-
-	public override string ToString(){
-		string arrayString = "";
-		foreach (var aluno in alunos)
-		{
-			arrayString += aluno + ", ";
-		}
-		return arrayString;
-	}
-}
+public class DsArray<T>  
+{  
+    private T[] _array = new T[100];  
+    public int Length { get; private set; }  
+  
+    public void Add(T item)  
+    {        checkCapacity();  
+        _array[Length] = item;  
+        Length++;  
+    }  
+    public void Add(T item, int position)  
+    {        checkCapacity();  
+        if(!isPositionValid(position))  
+            throw new ArgumentOutOfRangeException(nameof(position));  
+        for(int i = Length - 1; i >= position; i--)  
+        {            _array[i + 1] = _array[i];  
+        }        _array[position] = item;  
+        Length++;  
+    }  
+    public T Get(int position)  
+    {        if(!isPositionOccupied(position))  
+            throw new ArgumentOutOfRangeException(nameof(position));  
+        return _array[position];  
+    }  
+    public void Remove(int position)  
+    {        if(!isPositionOccupied(position))  
+            throw new ArgumentOutOfRangeException(nameof(position));  
+        for(int i = position; i < Length; i++)  
+        {            _array[i] = _array[i + 1];  
+        }        Length--;  
+    }  
+    public bool Contains(T item)  
+    {        for(int i = 0; i < Length; i++)  
+        {            if(_array[i].Equals(item))  
+                return true;  
+        }        return false;  
+    }  
+    public string ToString()  
+    {        var sb = new StringBuilder();  
+        sb.Append("[");  
+        for(int i = 0; i < Length; i++)  
+        {            sb.Append(_array[i]);  
+            if(i != Length - 1)  
+                sb.Append(", ");  
+        }        sb.Append("]");  
+        return sb.ToString();  
+    }  
+    private bool isPositionValid(int position) =>  
+        position >= 0 && position < Length;  
+  
+    private bool isPositionOccupied(int position) =>  
+        _array[position] != null && isPositionValid(position);  
+    private void checkCapacity()  
+    {        if(Length == _array.Length)  
+        {            var newArray = new T[Length * 2];  
+            for(int i = 0; i < Length; i++)  
+            {                newArray[i] = _array[i];  
+            }            _array = newArray;  
+        }    }}
 ```
