@@ -1,5 +1,5 @@
 A linked list is a linear data structure in which elements are not stored at contiguous memory locations. The elements in a linked list are linked using pointers as shown in the below image:
-![https://media.geeksforgeeks.org/wp-content/uploads/20220712172013/Singlelinkedlist.png](https://media.geeksforgeeks.org/wp-content/uploads/20220712172013/Singlelinkedlist.png)
+![[Singlelinkedlist.png]]
 
 ### **Characteristics of a Linked list:**
 

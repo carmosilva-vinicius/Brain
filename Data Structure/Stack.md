@@ -1,6 +1,6 @@
 Stack is a linear data structure that follows a particular order in which the operations are performed. The order may be LIFO(Last In First Out) or FILO(First In Last Out). In other words, a _**stack can be defined as a container in which insertion and deletion can be done from the one end known as the top of the stack.**_
 
-![https://media.geeksforgeeks.org/wp-content/cdn-uploads/20221219100314/stack.drawio2.png](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20221219100314/stack.drawio2.png)
+![[stack.drawio2.png]]
 
 **The following are some common operations implemented on the stack:**
 

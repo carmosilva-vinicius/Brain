@@ -158,8 +158,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "76471a1d42b4a4ae",
+  "active": "bd76018b1e0d0dcf",
   "lastOpenFiles": [
+    "Data Structure/assets/stack.drawio2.png",
+    "Data Structure/assets/datastructures.jpg",
+    "Data Structure/assets/binarysearchtree.png",
+    "Data Structure/assets/Singlelinkedlist.png",
+    "Data Structure/assets/Queue-Data-Structures.png",
+    "Data Structure/assets/Array-data-structure.png",
     "Programming/CSHARP/Visual Studio.md",
     "OS/Linux/Coding Setup.md",
     "Programming/CSHARP/dotNET/Setup.md",
@@ -193,7 +199,6 @@
     "Data Structure/Stack.md",
     "Data Structure/Queue.md",
     "Data Structure/Linked List.md",
-    "Algorithms/Algorithms.md",
     "OS/Linux/Directory struct",
     "Programming/CSHARP/dotNET/System",
     "Programming/CSHARP/Methods",
@@ -202,10 +207,6 @@
     "Database/Relational/PostgreSQL",
     "Programming/Compilers/Crafiting Interpreters/assets/ast.png",
     "Programming/Compilers/Crafiting Interpreters/assets/tokens.png",
-    "Programming/Compilers/Crafiting Interpreters/assets/A Map of the Territory · Crafting Interpreters_files/venn.png",
-    "Programming/Compilers/Crafiting Interpreters/assets/A Map of the Territory · Crafting Interpreters_files/tokens.png",
-    "Programming/Compilers/Crafiting Interpreters/assets/A Map of the Territory · Crafting Interpreters_files/string.png",
-    "Programming/Compilers/Crafiting Interpreters/assets/A Map of the Territory · Crafting Interpreters_files/plants.png",
-    "Programming/Compilers/Crafiting Interpreters/assets/A Map of the Territory · Crafting Interpreters_files/mountain.png"
+    "Programming/Compilers/Crafiting Interpreters/assets/A Map of the Territory · Crafting Interpreters_files/venn.png"
   ]
 }
