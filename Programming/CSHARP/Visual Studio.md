@@ -1,0 +1,16 @@
+- `Shift + Alt + Enter`:  Full Screen (max window size / reduced menus);
+- `Ctrl + Alt + PgUp / PgDn`: Go to Document to the Left / Right;
+- `Ctrl + T`: Search file;
+- `F12 / Alt + F12`: Go to Definition / Peek to Definition;
+- `Ctrl + F12`: Go to Implementation;
+- `Ctrl + K, Ctrl + I`: Method info;
+- `Ctrl + Shift + L`: Delete line;
+- `Ctrl + K, Ctrl + D / F`: Format document / selection;
+- `Ctrl + K, Ctrl + S`: Surround with (… if/try/foreach);
+- `Ctrl + R, Ctrl + R`: Rename;
+- `Ctrl + Shift + U`: To upper case;
+- `Ctrl + U`: To lower case;
+- `Ctrl + J`: List members;
+- `Ctrl + Shift + space`: Parameter information;
+- `Ctrl + TAB`: Navigate between opened files;
+- `Ctrl + F4`: Close current file;
