@@ -1,4 +1,4 @@
-Is a combination of symbols and operators that the SQL Server Database Engine evaluates to obtain a single data value. Simple expressions can be a single constant, variable, column, or scalar function. Operators can be used to join two or more simple expressions into a complex expression. [source](https://learn.microsoft.com/en-us/sql/t-sql/language-elements/expressions-transact-sql?view=sql-server-ver16)
+Is a combination of symbols and operators that the [[SQL Server]] Database Engine evaluates to obtain a single data value. Simple expressions can be a single constant, variable, column, or scalar function. Operators can be used to join two or more simple expressions into a complex expression. [source](https://learn.microsoft.com/en-us/sql/t-sql/language-elements/expressions-transact-sql?view=sql-server-ver16)
 
 ## Categorizing with  **CASE** and **WHEN**
 

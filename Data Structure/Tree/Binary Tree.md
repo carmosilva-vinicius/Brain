@@ -59,5 +59,11 @@ class Node {
 - Binary trees can be used to represent the decision-making process of computer-controlled characters in games, such as in decision trees.
 -  Binary trees can be used to implement searching algorithms, such as in binary search trees which can be used to quickly find an element in a sorted list.
 - Binary trees can be used to implement sorting algorithms, such as in heap sort which uses a binary heap to sort elements efficiently.
+[source](https://www.geeksforgeeks.org/)
 
-#### [source](https://www.geeksforgeeks.org/)
+## Some binary tree types:
+
+## Full Binary Tree
+Is a tree where each node should have two or no children. In other words, all nodes, except leaf nodes should has two children. It is also known as **Proper Binary Tree**.
+
+

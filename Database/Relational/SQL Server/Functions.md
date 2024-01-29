@@ -1,3 +1,4 @@
+Here are the main functions of [[SQL Server]]
 ### Strings:
 
 ```sql

@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d3b3b8883743a069",
+        "id": "64aea1104d2aaf52",
         "type": "tabs",
         "children": [
           {
-            "id": "421079e52548b72a",
+            "id": "f70d0e7ae0dfd474",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/Container/Container.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "66942c6554bece11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DevOps/Container/Docker.md",
+                "file": "Database/Relational/SQL Server/Update.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/Container/Container.md",
+                "file": "Database/Relational/SQL Server/Update.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/Container/Container.md",
+                "file": "Database/Relational/SQL Server/Update.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/Container/Container.md"
+                "file": "Database/Relational/SQL Server/Update.md"
               }
             }
           },
@@ -170,25 +158,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "421079e52548b72a",
+  "active": "f70d0e7ae0dfd474",
   "lastOpenFiles": [
-    "Programming/CSHARP/Visual Studio.md",
+    "Database/Relational/SQL Server/Basics.md",
+    "Database/Relational/SQL Server/Update.md",
+    "Database/Relational/SQL Server/Join.md",
+    "Data Structure/Tree/Binary Tree.md",
+    "Data Structure/Tree/Binary Search Tree.md",
+    "Database/Relational/SQL Server/Expressions.md",
+    "Database/Relational/SQL Server/Views.md",
+    "Database/Relational/SQL Server/Subqueries.md",
+    "Database/Relational/SQL Server/SQL Server.md",
+    "Database/Relational/SQL Server/Order.md",
+    "Database/Relational/SQL Server/Group.md",
+    "Database/Relational/SQL Server/Functions.md",
+    "Database/Relational/SQL Server/Filtering.md",
+    "Database/Relational/SQL Server/Cast.md",
+    "OS/POSIX.md",
+    "OS/UNIX.md",
+    "README.md",
     "DevOps/Container/Docker.md",
+    "Programming/CSHARP/Visual Studio.md",
     "DevOps/Container/Container.md",
     "Database/ORM.md",
     "Database/Database.md",
-    "Database/Relational/SQL Server/Cast.md",
-    "Database/Relational/SQL Server/Functions.md",
-    "Database/Relational/SQL Server/Views.md",
-    "Database/Relational/SQL Server/Subqueries.md",
-    "Database/Relational/SQL Server/Join.md",
-    "Database/Relational/SQL Server/Expressions.md",
-    "Database/Relational/SQL Server/Filtering.md",
-    "Database/Relational/SQL Server/Basics.md",
-    "Database/Relational/SQL Server/Group.md",
-    "Database/Relational/SQL Server/Order.md",
     "Database/Relational/Relational.md",
-    "Database/Relational/SQL Server/SQL Server.md",
     "Data Structure/Queue.md",
     "Data Structure/Stack.md",
     "Data Structure/Linked List.md",
@@ -198,22 +192,16 @@
     "Data Structure/assets/stack.drawio2.png.crdownload",
     "Data Structure/assets/Singlelinkedlist.png",
     "Data Structure/assets/Singlelinkedlist.png.crdownload",
-    "Data Structure/Array.md",
-    "Data Structure/Data Structure.md",
     "Data Structure/assets/Array-data-structure.png",
     "Data Structure/assets/Array-data-structure.png.crdownload",
     "Data Structure/assets/datastructures.jpg",
     "Data Structure/assets/datastructures.jpg.crdownload",
-    "Data Structure/Tree/Binary Search Tree.md",
     "Data Structure/assets/binarysearchtree.png",
     "Data Structure/assets/binarysearchtree.png.crdownload",
     "Data Structure/assets/binary-search-tree1.png",
-    "Data Structure/Tree/Binary Tree.md",
     "Data Structure/assets/binary-search-tree1.png.crdownload",
     "Data Structure/assets/binarytree.png",
     "Data Structure/assets/binarytree.png.crdownload",
-    "Desktop/SAP/UI API.md",
-    "Data Structure/Tree/Tree.md",
     "Data Structure/Tree",
     "Data Structure/assets/Treedatastructure.png",
     "Data Structure/assets/Treedatastructure.png.crdownload",

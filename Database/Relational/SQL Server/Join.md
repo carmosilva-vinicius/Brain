@@ -1,4 +1,4 @@
-SQL Server performs sort, intersect, union, and difference operations using in-memory sorting and hash join technology. Using this type of query plan, SQL Server supports vertical table partitioning. [source](https://learn.microsoft.com/en-us/sql/relational-databases/performance/joins?view=sql-server-ver16)
+[[SQL Server]] performs sort, intersect, union, and difference operations using in-memory sorting and hash join technology. Using this type of query plan, SQL Server supports vertical table partitioning. [source](https://learn.microsoft.com/en-us/sql/relational-databases/performance/joins?view=sql-server-ver16)
 
 SQL Server implements logical join operations, as determined by Transact-SQL syntax:
 
