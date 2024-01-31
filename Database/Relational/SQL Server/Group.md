@@ -1,5 +1,5 @@
 ## Group By
-To use the `group by`, it is important that you have, in the field selection, at least one field in which we apply what we call an aggregation function. The aggregation functions contained in SQL are four: the `SUM`, the `AVG`, the `MAX` and the `MIN`.
+To use the `group by` in [[SQL Server]], it is important that you have, in the field selection, at least one field in which we apply what we call an aggregation function. The aggregation functions contained in SQL are four: the `SUM`, the `AVG`, the `MAX` and the `MIN`.
 ```sql
 -- Seleciona a coluna CIDADE e calcula a soma das idades agrupadas por cidade
 SELECT CIDADE, SUM(IDADE) AS IDADE 

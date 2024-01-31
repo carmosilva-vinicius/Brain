@@ -70,28 +70,6 @@ VALUES
 ('544931','Frescor do Verão - 350 ml - Limão','Lata','350 ml','Limão',2.46)
 ```
 
-# Updating data
-
-To update the data, we must use a filter that limits which records should be changed, otherwise all rows would be changed. The famous _Update withou WHERE._
-
-```sql
-UPDATE [TABELA DE PRODUTOS]
-SET [PRECO DE LISTA] = 7.50
-WHERE [CODIGO DO PRODUTO] = '1088126';
-
-UPDATE [TABELA DE PRODUTOS]
-SET [EMBALAGEM] = 'Garrafa'
-WHERE [CODIGO DO PRODUTO] = '1088126';
-```
-
-Is there a way to execute these two commands at once?
-
-```sql
-UPDATE [TABELA DE PRODUTOS]
-SET [PRECO DE LISTA] = 7.50, [EMBALAGEM] = 'Garrafa'
-WHERE [CODIGO DO PRODUTO] = '1088126';
-```
-
 # Deleting data
 
 Similar to `UPDATE` , `DELETE` needs to works with a `WHERE` filter

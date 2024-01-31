@@ -66,7 +66,7 @@ SELECT * FROM TABELA_DE_CLIENTES WHERE DATA_DE_NASCIMENTO >= '1995-11-14';
 //Inclui Lapa e valores após, em ordem alfabética
 SELECT * FROM TABELA_DE_CLIENTES WHERE BAIRRO >= 'Lapa';
 ```
-### Expressões lógicas
+### Logical expressions
 ```sql
 -- Selecionando todo o conteúdo da tabela de produtos
 SELECT * FROM TABELA_DE_PRODUTOS;
