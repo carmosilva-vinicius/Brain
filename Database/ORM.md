@@ -1,0 +1,1 @@
+Acronym for Object-Relational Mapping, is software approaches which allow mapping queries commands of a [[Database]] from objects of an programming language

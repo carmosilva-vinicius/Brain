@@ -1,3 +1,4 @@
+IDE using a lot in [[CSHARP]] projects.
 - `Shift + Alt + Enter`:  Full Screen (max window size / reduced menus);
 - `Ctrl + Alt + PgUp / PgDn`: Go to Document to the Left / Right;
 - `Ctrl + T`: Search file;

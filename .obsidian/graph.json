@@ -13,6 +13,55 @@
         "a": 1,
         "rgb": 3382857
       }
+    },
+    {
+      "query": "path:DevOps  ",
+      "color": {
+        "a": 1,
+        "rgb": 13114927
+      }
+    },
+    {
+      "query": "path:Database  ",
+      "color": {
+        "a": 1,
+        "rgb": 4607212
+      }
+    },
+    {
+      "query": "path:Algorithms  ",
+      "color": {
+        "a": 1,
+        "rgb": 16303188
+      }
+    },
+    {
+      "query": "path:\"Data Structure\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15108382
+      }
+    },
+    {
+      "query": "path:OS",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:Web  ",
+      "color": {
+        "a": 1,
+        "rgb": 14111456
+      }
+    },
+    {
+      "query": "path:Desktop  ",
+      "color": {
+        "a": 1,
+        "rgb": 8618117
+      }
     }
   ],
   "collapse-display": true,
@@ -21,10 +70,10 @@
   "nodeSizeMultiplier": 0.916666666666667,
   "lineSizeMultiplier": 0.6359375,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 14.1666666666667,
-  "linkStrength": 0.494791666666667,
-  "linkDistance": 30,
-  "scale": 0.2675071876601044,
+  "centerStrength": 0.536458333333333,
+  "repelStrength": 9.89583333333333,
+  "linkStrength": 1,
+  "linkDistance": 50,
+  "scale": 0.37504050213164863,
   "close": true
 }
