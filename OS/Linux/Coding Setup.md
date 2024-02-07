@@ -1,4 +1,4 @@
-Here are some tools to write code and run [[CLI]] commands in a [[Linux]] system. 
+qHere are some tools to write code and run [[CLI]] commands in a [[Linux]] system. 
 # TMUX
 - `Ctrl + b %` : Split the terminal horizontally;
 - `Ctrl + b "`: Split the terminal vertically;

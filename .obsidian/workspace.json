@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/Relational/SQL Server/Update.md",
+                "file": "OS/Linux/Coding Setup.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/Relational/SQL Server/Update.md",
+                "file": "OS/Linux/Coding Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/Relational/SQL Server/Update.md",
+                "file": "OS/Linux/Coding Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/Relational/SQL Server/Update.md"
+                "file": "OS/Linux/Coding Setup.md"
               }
             }
           },
@@ -160,8 +160,19 @@
   },
   "active": "f70d0e7ae0dfd474",
   "lastOpenFiles": [
-    "Database/Relational/SQL Server/Basics.md",
+    "DevOps/Container/Docker Compose.md",
+    "DevOps/Container/Docker.md",
+    "Programming/Elixir/ExUnit/Mock.md",
+    "Programming/Elixir/ExUnit/ExUnit.md",
+    "Programming/Erlang/Erlang.md",
+    "DevOps/Container/Container.md",
+    "Programming/CSHARP/Visual Studio.md",
+    "OS/Linux/Coding Setup.md",
+    "OS/Linux/CLI.md",
+    "DevOps/Git/Git.md",
     "Database/Relational/SQL Server/Update.md",
+    "DevOps/Git",
+    "Database/Relational/SQL Server/Basics.md",
     "Database/Relational/SQL Server/Join.md",
     "Data Structure/Tree/Binary Tree.md",
     "Data Structure/Tree/Binary Search Tree.md",
@@ -176,16 +187,6 @@
     "Database/Relational/SQL Server/Cast.md",
     "OS/POSIX.md",
     "OS/UNIX.md",
-    "README.md",
-    "DevOps/Container/Docker.md",
-    "Programming/CSHARP/Visual Studio.md",
-    "DevOps/Container/Container.md",
-    "Database/ORM.md",
-    "Database/Database.md",
-    "Database/Relational/Relational.md",
-    "Data Structure/Queue.md",
-    "Data Structure/Stack.md",
-    "Data Structure/Linked List.md",
     "Data Structure/assets/Queue-Data-Structures.png",
     "Data Structure/assets/Queue-Data-Structures.png.crdownload",
     "Data Structure/assets/stack.drawio2.png",
@@ -204,7 +205,6 @@
     "Data Structure/assets/binarytree.png.crdownload",
     "Data Structure/Tree",
     "Data Structure/assets/Treedatastructure.png",
-    "Data Structure/assets/Treedatastructure.png.crdownload",
     "Untitled.canvas",
     "Programming/Compilers/Crafiting Interpreters/assets/ast.png"
   ]
