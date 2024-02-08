@@ -1,7 +1,9 @@
+
 # What are Containers?
 
 [Containers](https://roadmap.sh/docker) are lightweight, portable, and isolated software environments that allow developers to run and package applications with their dependencies, consistently across different platforms. They help to streamline application development, deployment, and management processes while ensuring that applications run consistently, regardless of the underlying infrastructure.
 
+Containers excel in **packaging and deploying** applications in [[DevOps]] workflows. Here's the scoop:
 ## How do containers work?
 
 Unlike traditional virtualization, which emulates a complete operating system with its hardware resources, containers share the host’s OS kernel and leverage lightweight virtualization techniques to create isolated processes. This approach leads to several benefits, including:
