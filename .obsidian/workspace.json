@@ -4,18 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "64a7b0b085c461f1",
+        "id": "581c1c09b5b29457",
         "type": "tabs",
         "children": [
           {
-            "id": "b7b9f195330a52ce",
+            "id": "7f4e42540c6eb67e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "8d6485e22a3751ed",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 230.5
   },
   "right": {
     "id": "4c6be302c9c205d6",
@@ -151,34 +160,34 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "bd76018b1e0d0dcf",
+  "active": "8d6485e22a3751ed",
   "lastOpenFiles": [
-    "Web/Cache.md",
-    "Web/Performance and Optimization.md",
-    "pages/contents.md",
-    "DevOps/Container/Container.md",
-    "DevOps/Git/Git.md",
+    "Web/HTTP.md",
+    "Programming/CSHARP/Aulas/YouTube Série.md",
+    "Programming/Clean Code.md",
     "DevOps/DevOps.md",
-    "DevOps/Container/Docker Compose.md",
-    "DevOps/Container/Docker.md",
-    "Database/Relational/SQL Server/Order.md",
-    "Database/Relational/SQL Server/Functions.md",
-    "Database/Relational/SQL Server/Auto Increment.md",
-    "Database/Relational/SQL Server/Group.md",
     "Database/Relational/Join.md",
     "Programming/CSHARP/ASP.NET/Entity Framework.md",
     "Desktop/SAP/UI API.md",
-    "Programming/CSHARP/Aulas/CSHARP Série.md",
     "Database/Database.md",
     "Database/ORM.md",
     "Programming/CSHARP/dotNET/Work with Strings.md",
     "Web/Message Queue/Message Queue.md",
     "Web/Message Queue/RabbitMQ.md",
     "Web/Server/Nginx.md",
-    "Web/HTTP.md",
+    "Web/Cache.md",
     "Web/Internet.md",
+    "Web/Performance and Optimization.md",
     "Web/Web.md",
     "OS/Windows/PowerShell.md",
+    "Programming/CSHARP/CSHARP.md",
+    "Programming/CSHARP/Visual Studio.md",
+    "MediaServer/Media Server.md",
+    "Network/DNS.md",
+    "Algorithms/Algorithms.md",
+    "Database/Relational/PostgreSQL/PostgreSQL.md",
+    "OS/Linux/Coding Setup.md",
+    "DevOps/Container/Docker Compose.md",
     "DevOps/Git",
     "Data Structure/assets/Queue-Data-Structures.png",
     "Data Structure/assets/Queue-Data-Structures.png.crdownload",

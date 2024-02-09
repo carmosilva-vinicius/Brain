@@ -1,6 +1,6 @@
-#classes
+#course
 # O que é C#?
-C# é uma linguagem de programação, desenvolvida pela Microsoft como parte da plataforma .NET.
+[[CSHARP|C#]] é uma linguagem de programação, desenvolvida pela Microsoft como parte da plataforma .NET.
 ## Ferramentas necessárias
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [.NET Core SDK](https://dotnet.microsoft.com/download)
