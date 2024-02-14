@@ -36,6 +36,14 @@ In the command mode, something can be saved using `:w /tmp/test.cs`, where it me
 In the command mode, the `h`, `j`, `k` and `l` can be user as arrows to navigate in the content, where h is left, l is right, k is up and j is down. It is possible combine those with numbers to repeat some times automatically, for example `10k` navigates up ten lines  
 `gg` navigate to the top(first line) of content and `G` to the end(last line).
 
+## Navigating:
+- `w`: Word by word;
+- `b`: Backward word by word;
+- `e`: Word by word, to the end of word;
+- `0 and $`: To start and end of line;
+- `gg and G`: First and last line of file;
+- `f + char`: To to the next char;
+- `F + char`: To to the previous char;
 ## LunarVIim
 - `Ctrl+h` : Navigate to file tree (left);
 - `Ctrl+l`: Navigate to text editor (right);
