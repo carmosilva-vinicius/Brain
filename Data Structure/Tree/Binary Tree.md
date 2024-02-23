@@ -66,4 +66,13 @@ class Node {
 ## Full Binary Tree
 Is a tree where each node should have two or no children. In other words, all nodes, except leaf nodes should has two children. It is also known as **Proper Binary Tree**.
 
+![[fullbt.png]]
 
+## Degenerate (or pathological) tree  
+In this tree, every node has just one child node. That is considered pathological, because this tree will store data as a [[Linked List]], so it will not enjoy the complexity that trees offer.
+
+![[degeneratetree.png]]
+## Skewed Binary Tree
+This is an specific type of degenerate trees, where in Skewed binary tree, all nodes should has only one child and each one should be linked at the same side. In other words every child should be on the left or all of them on the right. 
+
+![[skewed1.png]]

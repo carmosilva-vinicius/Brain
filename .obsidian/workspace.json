@@ -11,24 +11,15 @@
             "id": "7f4e42540c6eb67e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "8d6485e22a3751ed",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/Linux/Coding Setup.md",
+                "file": "Data Structure/Tree/Binary Tree.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS/Linux/Coding Setup.md",
+                "file": "Data Structure/Tree/Binary Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS/Linux/Coding Setup.md",
+                "file": "Data Structure/Tree/Binary Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OS/Linux/Coding Setup.md"
+                "file": "Data Structure/Tree/Binary Tree.md"
               }
             }
           },
@@ -168,8 +159,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8d6485e22a3751ed",
+  "active": "7f4e42540c6eb67e",
   "lastOpenFiles": [
+    "Data Structure/assets/skewed1.png",
+    "Data Structure/assets/skewed1.png.crdownload",
+    "Data Structure/assets/degeneratetree.png",
+    "Data Structure/assets/degeneratetree.png.crdownload",
+    "Data Structure/assets/fullbt.png",
+    "Data Structure/assets/fullbt.png.crdownload",
+    "Data Structure/Tree/Tree.md",
+    "OS/Linux/Coding Setup.md",
     "Programming/Java/Java.md",
     "Web/HTTP.md",
     "Programming/CSHARP/Aulas/YouTube Série.md",
@@ -193,9 +192,6 @@
     "Programming/CSHARP/Visual Studio.md",
     "MediaServer/Media Server.md",
     "Network/DNS.md",
-    "Algorithms/Algorithms.md",
-    "Database/Relational/PostgreSQL/PostgreSQL.md",
-    "OS/Linux/Coding Setup.md",
     "DevOps/Git",
     "Data Structure/assets/Queue-Data-Structures.png",
     "Data Structure/assets/Queue-Data-Structures.png.crdownload",
@@ -210,12 +206,7 @@
     "Data Structure/assets/binarysearchtree.png",
     "Data Structure/assets/binarysearchtree.png.crdownload",
     "Data Structure/assets/binary-search-tree1.png",
-    "Data Structure/assets/binary-search-tree1.png.crdownload",
     "Data Structure/assets/binarytree.png",
-    "Data Structure/assets/binarytree.png.crdownload",
-    "Data Structure/Tree",
-    "Data Structure/assets/Treedatastructure.png",
-    "Untitled.canvas",
-    "Programming/Compilers/Crafiting Interpreters/assets/ast.png"
+    "Untitled.canvas"
   ]
 }
