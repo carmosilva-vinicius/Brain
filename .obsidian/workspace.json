@@ -19,8 +19,12 @@
             "id": "8d6485e22a3751ed",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "OS/Linux/Coding Setup.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "OS/Linux/Coding Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "OS/Linux/Coding Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "OS/Linux/Coding Setup.md"
+              }
             }
           },
           {
@@ -162,6 +170,8 @@
   },
   "active": "8d6485e22a3751ed",
   "lastOpenFiles": [
+    "Programming/Go/Functions.md",
+    "OS/Linux/Coding Setup.md",
     "Web/HTTP.md",
     "Programming/CSHARP/Aulas/YouTube Série.md",
     "Programming/Clean Code.md",
@@ -186,8 +196,6 @@
     "Network/DNS.md",
     "Algorithms/Algorithms.md",
     "Database/Relational/PostgreSQL/PostgreSQL.md",
-    "OS/Linux/Coding Setup.md",
-    "DevOps/Container/Docker Compose.md",
     "DevOps/Git",
     "Data Structure/assets/Queue-Data-Structures.png",
     "Data Structure/assets/Queue-Data-Structures.png.crdownload",
