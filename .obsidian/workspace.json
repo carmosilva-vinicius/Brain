@@ -4,19 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "581c1c09b5b29457",
+        "id": "dbe88983a3daf93e",
         "type": "tabs",
         "children": [
           {
-            "id": "7f4e42540c6eb67e",
+            "id": "5baef0cc119eb0ae",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Work/Meet.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
-            "id": "8d6485e22a3751ed",
+            "id": "12d1fab9a1951280",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -27,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS/Linux/Coding Setup.md",
+                "file": "Work/Meet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS/Linux/Coding Setup.md",
+                "file": "Work/Meet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OS/Linux/Coding Setup.md"
+                "file": "Work/Meet.md"
               }
             }
           },
@@ -168,10 +171,20 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8d6485e22a3751ed",
+  "active": "5baef0cc119eb0ae",
   "lastOpenFiles": [
-    "Programming/Go/Functions.md",
     "OS/Linux/Coding Setup.md",
+    "Work/Meet.md",
+    "Work",
+    "Data Structure/Tree/Binary Tree.md",
+    "Data Structure/assets/skewed1.png",
+    "Data Structure/assets/skewed1.png.crdownload",
+    "Data Structure/assets/degeneratetree.png",
+    "Data Structure/assets/degeneratetree.png.crdownload",
+    "Data Structure/assets/fullbt.png",
+    "Data Structure/assets/fullbt.png.crdownload",
+    "Data Structure/Tree/Tree.md",
+    "Programming/Java/Java.md",
     "Web/HTTP.md",
     "Programming/CSHARP/Aulas/YouTube Série.md",
     "Programming/Clean Code.md",
@@ -193,9 +206,6 @@
     "Programming/CSHARP/CSHARP.md",
     "Programming/CSHARP/Visual Studio.md",
     "MediaServer/Media Server.md",
-    "Network/DNS.md",
-    "Algorithms/Algorithms.md",
-    "Database/Relational/PostgreSQL/PostgreSQL.md",
     "DevOps/Git",
     "Data Structure/assets/Queue-Data-Structures.png",
     "Data Structure/assets/Queue-Data-Structures.png.crdownload",
@@ -208,14 +218,7 @@
     "Data Structure/assets/datastructures.jpg",
     "Data Structure/assets/datastructures.jpg.crdownload",
     "Data Structure/assets/binarysearchtree.png",
-    "Data Structure/assets/binarysearchtree.png.crdownload",
     "Data Structure/assets/binary-search-tree1.png",
-    "Data Structure/assets/binary-search-tree1.png.crdownload",
-    "Data Structure/assets/binarytree.png",
-    "Data Structure/assets/binarytree.png.crdownload",
-    "Data Structure/Tree",
-    "Data Structure/assets/Treedatastructure.png",
-    "Untitled.canvas",
-    "Programming/Compilers/Crafiting Interpreters/assets/ast.png"
+    "Untitled.canvas"
   ]
 }
