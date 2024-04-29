@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "dbe88983a3daf93e",
+        "id": "25fe69393dbb9ce5",
         "type": "tabs",
         "children": [
           {
-            "id": "5baef0cc119eb0ae",
+            "id": "6545bbd7e79d7ae6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Meet.md",
+                "file": "Programming/Rust/Types.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "12d1fab9a1951280",
+            "id": "b0d9d5d688901c31",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Meet.md",
+                "file": "Programming/Rust/Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/Meet.md",
+                "file": "Programming/Rust/Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Meet.md"
+                "file": "Programming/Rust/Types.md"
               }
             }
           },
@@ -171,9 +171,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5baef0cc119eb0ae",
+  "active": "6545bbd7e79d7ae6",
   "lastOpenFiles": [
     "OS/Linux/Coding Setup.md",
+    "Programming/Rust/Types.md",
+    "Programming/Rust/Rust.md",
+    "README.md",
     "Work/Meet.md",
     "Work",
     "Data Structure/Tree/Binary Tree.md",
@@ -203,9 +206,6 @@
     "Web/Performance and Optimization.md",
     "Web/Web.md",
     "OS/Windows/PowerShell.md",
-    "Programming/CSHARP/CSHARP.md",
-    "Programming/CSHARP/Visual Studio.md",
-    "MediaServer/Media Server.md",
     "DevOps/Git",
     "Data Structure/assets/Queue-Data-Structures.png",
     "Data Structure/assets/Queue-Data-Structures.png.crdownload",

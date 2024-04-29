@@ -1,15 +1,15 @@
 Here are some tools to write code and run [[CLI]] commands in a [[Linux]] system. 
 # TMUX
-- `Ctrl + b %` : Split the terminal vertically;
-- `Ctrl + b "`: Split the terminal horizontally;
-- `Ctrl + b o` : Navigate to another panel;
-- `Ctrl + b [` : Enable Scroll mode (`q` to quit);
-- `Ctrl + b arrow` : Navigate to arrow direction panel;
-- `Ctrl + b + arrow` : Resize in arrow direction;
-- `Ctrl + b x` : Close current pane;
-- `Ctrl + b {` : Move current pane to left;
-- `Ctrl + b }` : Move current pane to right;
-- `Ctrl + b d` : Detach from session;
+- `Ctrl + <leader> %` : Split the terminal vertically;
+- `Ctrl + <leader> "`: Split the terminal horizontally;
+- `Ctrl + <leader> o` : Navigate to another panel;
+- `Ctrl + <leader> [` : Enable Scroll mode (`q` to quit);
+- `Ctrl + <leader> arrow` : Navigate to arrow direction panel;
+- `Ctrl + <leader> + arrow` : Resize in arrow direction;
+- `Ctrl + <leader> x` : Close current pane;
+- `Ctrl + <leader> {` : Move current pane to left;
+- `Ctrl + <leader> }` : Move current pane to right;
+- `Ctrl + <leader> d` : Detach from session;
 - `tmux ls`: List the active sections;
 - `tmux a -t 0`: Attach to exist session;
 - `tmux kill-ses -t 0`: Delete a session;

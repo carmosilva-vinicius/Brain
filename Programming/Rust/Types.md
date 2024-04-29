@@ -103,3 +103,81 @@ In this example, `len` is a `usize` and `index` is an `isize`. The `len` method 
 Please note that these types are primarily used for indexing and size computations, and should not be used for arithmetic operations. If you need to perform arithmetic operations, you should use the appropriate integer types (`i32`, `i64`, etc.) instead.
 
 Remember that the size of these types is platform dependent, so they can have different sizes on different platforms. Always check the size of these types on your target platform if you need to ensure that your code behaves consistently across different platforms.
+
+# Enum
+It allows to create custom types with predefined values.
+
+```rust
+fn main() {
+    println!("É fim de semana? {}", eh_fim_de_semana(DiaDaSemana::Sabado));
+}
+
+enum DiaDaSemana {
+    Domingo,
+    Segunda,
+    Terca,
+    Quarta,
+    Quinta,
+    Sexata,
+    Sabado,
+}
+
+fn eh_fim_de_semana(dia_da_semana: DiaDaSemana) -> bool {
+    match dia_da_semana {
+        DiaDaSemana::Domingo | DiaDaSemana::Sabado => true,
+        _ => false,
+    }
+}
+```
+
+It became more powerful when we use tuples and structs together:
+```rust
+fn main() {
+    cores();
+}
+
+enum Color {
+    Red,
+    Green,
+    Blue,
+    RgbColor(u8, u8, u8),
+    CymkColor {
+        cyan: u8,
+        magenta: u8,
+        yellow: u8,
+        black: u8,
+    },
+}
+
+fn cores() {
+    let cor = Color::CymkColor {
+        cyan: 100,
+        magenta: 50,
+        yellow: 70,
+        black: 200,
+    };
+
+    println!(
+        "Cor = {}",
+        match cor {
+            Color::Red => "vermelho",
+            Color::Green => "verde",
+            Color::Blue => "blue",
+            Color::RgbColor(0, 0, 0)
+            | Color::CymkColor {
+                cyan: _,
+                magenta: _,
+                yellow: _,
+                black: 255,
+            } => "preta",
+            Color::RgbColor(_, _, _) => "RGB desconhecido",
+            Color::CymkColor {
+                cyan: _,
+                magenta: _,
+                yellow: _,
+                black: _,
+            } => "CYMK desconhecido",
+        }
+    );
+}
+```
