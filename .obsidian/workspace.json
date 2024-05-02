@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Rust/Types.md",
+                "file": "Programming/Software Architecture/Clean Architecture/Entity.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230.5
+    "width": 278
   },
   "right": {
     "id": "4c6be302c9c205d6",
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Rust/Types.md",
+                "file": "Programming/Software Architecture/Clean Architecture/Entity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Rust/Types.md",
+                "file": "Programming/Software Architecture/Clean Architecture/Entity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Rust/Types.md"
+                "file": "Programming/Software Architecture/Clean Architecture/Entity.md"
               }
             }
           },
@@ -173,7 +173,18 @@
   },
   "active": "6545bbd7e79d7ae6",
   "lastOpenFiles": [
+    "Programming/Software Architecture/Onion Architecture.md",
+    "Programming/Software Architecture/Clean Architecture/Entity.md",
+    "Programming/Software Architecture/Clean Architecture/Clean Architecture.md",
+    "Programming/Software Architecture/assets/CleanArchitecture.jpg",
+    "Programming/Software Architecture/Clean Architecture",
+    "Programming/Software Architecture/assets/onnion.png",
     "OS/Linux/Coding Setup.md",
+    "Programming/Software Architecture/Software Architecture.md",
+    "Programming/Software Architecture/Hexagonal Architecture.md",
+    "Programming/Software Architecture/assets",
+    "Programming/Software Architecture/assets/hexagonal.png",
+    "Programming/Software Architecture",
     "Programming/Rust/Types.md",
     "Programming/Rust/Rust.md",
     "README.md",
@@ -201,24 +212,13 @@
     "Web/Message Queue/Message Queue.md",
     "Web/Message Queue/RabbitMQ.md",
     "Web/Server/Nginx.md",
-    "Web/Cache.md",
-    "Web/Internet.md",
-    "Web/Performance and Optimization.md",
-    "Web/Web.md",
-    "OS/Windows/PowerShell.md",
     "DevOps/Git",
     "Data Structure/assets/Queue-Data-Structures.png",
     "Data Structure/assets/Queue-Data-Structures.png.crdownload",
     "Data Structure/assets/stack.drawio2.png",
     "Data Structure/assets/stack.drawio2.png.crdownload",
     "Data Structure/assets/Singlelinkedlist.png",
-    "Data Structure/assets/Singlelinkedlist.png.crdownload",
     "Data Structure/assets/Array-data-structure.png",
-    "Data Structure/assets/Array-data-structure.png.crdownload",
-    "Data Structure/assets/datastructures.jpg",
-    "Data Structure/assets/datastructures.jpg.crdownload",
-    "Data Structure/assets/binarysearchtree.png",
-    "Data Structure/assets/binary-search-tree1.png",
     "Untitled.canvas"
   ]
 }
