@@ -1,0 +1,7 @@
+epresent values that are significant to the application's domain but lack a unique identity. They are immutable, meaning once created, their values cannot be altered. Value objects are typically used to model domain concepts defined solely by their attributes, without a distinct identity.
+
+An example of a value object could be an "Address," which includes attributes such as street, city, state, and ZIP code. Each instance of "Address" is distinct only by its attributes and can be compared with others based on these values.
+
+The distinction between [[Entity]] and value objects is crucial in [[Clean Architecture]] because it helps define clear boundaries between domain concepts and implementation details. Entities encapsulate the central business logic of the application and represent concepts with their own identity and long lifecycle. Conversely, value objects represent values important to the domain but without a unique identity, used primarily for defining immutable and semantic types.
+
+When designing systems using clean architecture, it's important to accurately identify and model the relevant entities and value objects for the application's domain, ensuring that the code is cohesive, understandable, and easy to maintain.
