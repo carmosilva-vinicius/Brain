@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Software Architecture/Clean Architecture/Use Cases.md",
+                "file": "Programming/Software Architecture/Clean Architecture/Gateways.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Software Architecture/Clean Architecture/Use Cases.md",
+                "file": "Programming/Software Architecture/Clean Architecture/Gateways.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Software Architecture/Clean Architecture/Use Cases.md",
+                "file": "Programming/Software Architecture/Clean Architecture/Gateways.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Software Architecture/Clean Architecture/Use Cases.md"
+                "file": "Programming/Software Architecture/Clean Architecture/Gateways.md"
               }
             }
           },
@@ -161,8 +161,9 @@
   },
   "active": "6545bbd7e79d7ae6",
   "lastOpenFiles": [
-    "Programming/Software Architecture/Design Patterns/Builder.md",
     "Programming/Software Architecture/Clean Architecture/Use Cases.md",
+    "Programming/Software Architecture/Clean Architecture/Gateways.md",
+    "Programming/Software Architecture/Design Patterns/Builder.md",
     "Programming/Software Architecture/Design Patterns/Design Patters.md",
     "Programming/Software Architecture/Clean Architecture/Value Objects.md",
     "Programming/Software Architecture/Design Patterns",
@@ -200,7 +201,6 @@
     "Programming/CSHARP/ASP.NET/Entity Framework.md",
     "Desktop/SAP/UI API.md",
     "Database/Database.md",
-    "Database/ORM.md",
     "DevOps/Git",
     "Data Structure/assets/Queue-Data-Structures.png",
     "Data Structure/assets/Queue-Data-Structures.png.crdownload",
