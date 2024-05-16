@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "25fe69393dbb9ce5",
+        "id": "dad3fa5a439fa98b",
         "type": "tabs",
         "children": [
           {
-            "id": "6545bbd7e79d7ae6",
+            "id": "62c13df748a943c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Software Architecture/Clean Architecture/Gateways.md",
+                "file": "Programming/Software Architecture/DI and IOC.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Software Architecture/Clean Architecture/Gateways.md",
+                "file": "Programming/Software Architecture/DI and IOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Software Architecture/Clean Architecture/Gateways.md",
+                "file": "Programming/Software Architecture/DI and IOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Software Architecture/Clean Architecture/Gateways.md"
+                "file": "Programming/Software Architecture/DI and IOC.md"
               }
             }
           },
@@ -159,10 +159,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6545bbd7e79d7ae6",
+  "active": "62c13df748a943c7",
   "lastOpenFiles": [
-    "Programming/Software Architecture/Clean Architecture/Use Cases.md",
+    "Programming/Software Architecture/DI and IOC.md",
+    "Data Structure/Data Structure.md",
     "Programming/Software Architecture/Clean Architecture/Gateways.md",
+    "Programming/Software Architecture/Clean Architecture/Use Cases.md",
     "Programming/Software Architecture/Design Patterns/Builder.md",
     "Programming/Software Architecture/Design Patterns/Design Patters.md",
     "Programming/Software Architecture/Clean Architecture/Value Objects.md",
@@ -199,8 +201,6 @@
     "DevOps/DevOps.md",
     "Database/Relational/Join.md",
     "Programming/CSHARP/ASP.NET/Entity Framework.md",
-    "Desktop/SAP/UI API.md",
-    "Database/Database.md",
     "DevOps/Git",
     "Data Structure/assets/Queue-Data-Structures.png",
     "Data Structure/assets/Queue-Data-Structures.png.crdownload",
