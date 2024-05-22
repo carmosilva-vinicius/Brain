@@ -59,3 +59,46 @@ For example, a common value object could be "Address," including attributes such
 The distinction between entities and value objects is important in Clean Architecture because it helps define clear boundaries between domain concepts and implementation details. Entities encapsulate the core business logic of the application and represent concepts with their own identity and long lifecycle. On the other hand, value objects represent values important to the domain but do not have their own identity and are primarily used to define immutable types and semantics.
 
 When designing systems using Clean Architecture, it's important to identify and model entities and value objects appropriately for the application's domain, ensuring that the code is cohesive, understandable, and easy to maintain.
+
+![[Imagem+06.png]]
+### Use Case Input Port
+
+A **Use Case Input Port** defines the interface for inputs required by a use case. It abstracts the details of how these inputs are obtained, allowing different implementations (e.g., UI, API) to interact with the same use case logic.
+```java
+public interface CreateUserInputPort {
+    void execute(CreateUserRequest request);
+}
+
+```
+
+### Use Case Interactor
+
+The **Use Case Interactor** contains the core business logic of a use case. It implements the Use Case Input Port and interacts with entities and repositories to perform its operations. The interactor is responsible for executing the business rules and returning the result.
+```java
+public class CreateUserInteractor implements CreateUserInputPort {
+    private final UserRepository userRepository;
+
+	    public CreateUserInteractor(UserRepository userRepository) {
+        this.userRepository = userRepository;
+    }
+
+    @Override
+    public void execute(CreateUserRequest request) {
+        // Business logic here
+        User user = new User(request.getName(), request.getEmail());
+        userRepository.save(user);
+    }
+}
+
+```
+
+### Use Case Output Port
+
+A **Use Case Output Port** defines the interface for outputs produced by a use case. Like the input port, it abstracts the details of how these outputs are consumed, allowing different implementations (e.g., UI, API) to receive the same output.
+```java
+public interface CreateUserOutputPort {
+    void onSuccess(UserDto userDto);
+    void onError(String errorMessage);
+}
+
+```

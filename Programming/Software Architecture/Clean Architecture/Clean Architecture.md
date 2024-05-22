@@ -13,7 +13,7 @@ Typical layers in clean architecture include:
 
 - **Business Entities**: The innermost layer containing domain entities or business objects representing concepts of the application's domain. These encapsulate the state and behavior of the application and are independent of any implementation details.
 - **Use Cases or Interactors**: This layer contains the application's use cases or services offered to users. Use cases orchestrate the execution of business operations using domain entities and coordinate interaction with external layers.
-- **Controllers, Presenters**, and Gateways: Outer layers responsible for translating UI inputs and outputs to application use cases and vice versa. They adapt data and events between the UI and use cases, ensuring separation of responsibilities and independence between these layers.
+- **[[Controller|Controllers]], Presenters**, and Gateways: Outer layers responsible for translating UI inputs and outputs to application use cases and vice versa. They adapt data and events between the UI and use cases, ensuring separation of responsibilities and independence between these layers.
 - **User Interfaces**, Frameworks, and Drivers: This layer contains user interfaces (web interfaces, REST APIs, command-line interfaces, etc.), responsible for receiving user requests, presenting information, and collecting inputs. It also contains implementation-specific details, such as frameworks, libraries, and drivers for infrastructure handling, like data access and network communication. These details are encapsulated and isolated from the application's internal layers.
 
 ![[CleanArchitecture.jpg]]
