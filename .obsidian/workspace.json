@@ -161,8 +161,12 @@
   },
   "active": "4bd78126b50fcf76",
   "lastOpenFiles": [
-    "Programming/Rust/Types.md",
+    "Programming/Rust/Vector.md",
+    "Programming/Rust/Prelude.md",
     "Programming/Rust/Option.md",
+    "Programming/Rust/Ownership.md",
+    "Programming/Rust/Pattern Matching.md",
+    "Programming/Rust/Types.md",
     "Programming/Software Architecture/Clean Architecture/Use Cases.md",
     "Programming/Software Architecture/assets/Imagem+06.png",
     "Programming/Software Architecture/Imagem+06.png",
@@ -202,10 +206,6 @@
     "Data Structure/assets/fullbt.png.crdownload",
     "Data Structure/Tree/Tree.md",
     "Programming/Java/Java.md",
-    "Web/HTTP.md",
-    "Programming/CSHARP/Aulas/YouTube Série.md",
-    "Programming/Clean Code.md",
-    "DevOps/DevOps.md",
     "DevOps/Git",
     "Untitled.canvas"
   ]
