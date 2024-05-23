@@ -161,12 +161,11 @@
   },
   "active": "903eaa7455c09870",
   "lastOpenFiles": [
-    "Database/Relational/SQL Server/Trigger.md",
-    "Database/Relational/SQL Server/Check.md",
-    "Database/Relational/SQL Server/Default values.md",
-    "Database/Relational/SQL Server/Auto Increment.md",
-    "Programming/Software Architecture/The Twelve-Factor App.md",
+    "Programming/Rust/Vector.md",
+    "Programming/Rust/Prelude.md",
     "Programming/Rust/Option.md",
+    "Programming/Rust/Ownership.md",
+    "Programming/Rust/Pattern Matching.md",
     "Programming/Rust/Types.md",
     "Programming/Software Architecture/Clean Architecture/Use Cases.md",
     "Programming/Software Architecture/assets/Imagem+06.png",
@@ -206,6 +205,10 @@
     "Data Structure/assets/fullbt.png",
     "Data Structure/assets/fullbt.png.crdownload",
     "Data Structure/Tree/Tree.md",
+<<<<<<< HEAD
+=======
+    "Programming/Java/Java.md",
+>>>>>>> beba21f9625f3b6ecb722ebceada33f506ade443
     "DevOps/Git",
     "Untitled.canvas"
   ]

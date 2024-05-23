@@ -1,0 +1,1 @@
+Is similar to [[Arrays]], but if a dynamic size.  So, it is contiguous growable. 
