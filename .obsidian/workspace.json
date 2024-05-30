@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "60f961c45b38760e",
+    "id": "885e4828f2e7a6d7",
     "type": "split",
     "children": [
       {
-        "id": "b25b872771db8782",
+        "id": "d28a57b258ca23cc",
         "type": "tabs",
         "children": [
           {
-            "id": "903eaa7455c09870",
+            "id": "6cc9f6eeca724df4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/Relational/SQL Server/Check.md",
+                "file": "Programming/Rust/Vector.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "80f7006c3a5089d3",
+    "id": "8d4aa7c3f8ea33a8",
     "type": "split",
     "children": [
       {
-        "id": "a836e542a2e9dd5b",
+        "id": "e5979e33d129be5b",
         "type": "tabs",
         "children": [
           {
-            "id": "bd76018b1e0d0dcf",
+            "id": "7e952689676c7814",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "3592c2dfa69ccf2a",
+            "id": "07fbe6a4d8146b91",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "47ab4e16d0065227",
+            "id": "c74f8acd19914a15",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278
+    "width": 300
   },
   "right": {
-    "id": "4c6be302c9c205d6",
+    "id": "803173337cd768e9",
     "type": "split",
     "children": [
       {
-        "id": "a476e7e0cf3e335f",
+        "id": "ddc2c3d2479c22ce",
         "type": "tabs",
         "children": [
           {
-            "id": "2e2a489dd704c384",
+            "id": "ae9b64a6d28a5ca1",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/Relational/SQL Server/Check.md",
+                "file": "Programming/Rust/Vector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "608e9aec38921c80",
+            "id": "db121b4c96c3e882",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/Relational/SQL Server/Check.md",
+                "file": "Programming/Rust/Vector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "fcc20d67f6379e71",
+            "id": "c4e8056b0de84611",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,17 +120,7 @@
             }
           },
           {
-            "id": "8a4b6be70c28eb6e",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Database/Relational/SQL Server/Check.md"
-              }
-            }
-          },
-          {
-            "id": "bd794b7eaf500e30",
+            "id": "29e5a31fbc87c73e",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -138,6 +128,16 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "f4597855cac0edf9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Programming/Rust/Vector.md"
               }
             }
           }
@@ -159,57 +159,6 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "903eaa7455c09870",
-  "lastOpenFiles": [
-    "Programming/Rust/Vector.md",
-    "Programming/Rust/Prelude.md",
-    "Programming/Rust/Option.md",
-    "Programming/Rust/Ownership.md",
-    "Programming/Rust/Pattern Matching.md",
-    "Programming/Rust/Types.md",
-    "Programming/Software Architecture/Clean Architecture/Use Cases.md",
-    "Programming/Software Architecture/assets/Imagem+06.png",
-    "Programming/Software Architecture/Imagem+06.png",
-    "Programming/Imagem+06.png",
-    "Imagem+06.png",
-    "Imagem+06.png.crdownload",
-    "Programming/Software Architecture/Clean Architecture/Controller.md",
-    "Programming/Software Architecture/Clean Architecture/Clean Architecture.md",
-    "Programming/Software Architecture/DI and IOC.md",
-    "Data Structure/Data Structure.md",
-    "Programming/Software Architecture/Clean Architecture/Gateways.md",
-    "Programming/Software Architecture/Design Patterns/Builder.md",
-    "Programming/Software Architecture/Design Patterns/Design Patters.md",
-    "Programming/Software Architecture/Clean Architecture/Value Objects.md",
-    "Programming/Software Architecture/Design Patterns",
-    "Programming/Software Architecture/Clean Architecture/Entity.md",
-    "Programming/Software Architecture/Onion Architecture.md",
-    "Programming/Software Architecture/assets/CleanArchitecture.jpg",
-    "Programming/Software Architecture/Clean Architecture",
-    "Programming/Software Architecture/assets/onnion.png",
-    "OS/Linux/Coding Setup.md",
-    "Programming/Software Architecture/Software Architecture.md",
-    "Programming/Software Architecture/Hexagonal Architecture.md",
-    "Programming/Software Architecture/assets",
-    "Programming/Software Architecture/assets/hexagonal.png",
-    "Programming/Software Architecture",
-    "Programming/Rust/Rust.md",
-    "README.md",
-    "Work/Meet.md",
-    "Work",
-    "Data Structure/Tree/Binary Tree.md",
-    "Data Structure/assets/skewed1.png",
-    "Data Structure/assets/skewed1.png.crdownload",
-    "Data Structure/assets/degeneratetree.png",
-    "Data Structure/assets/degeneratetree.png.crdownload",
-    "Data Structure/assets/fullbt.png",
-    "Data Structure/assets/fullbt.png.crdownload",
-    "Data Structure/Tree/Tree.md",
-<<<<<<< HEAD
-=======
-    "Programming/Java/Java.md",
->>>>>>> beba21f9625f3b6ecb722ebceada33f506ade443
-    "DevOps/Git",
-    "Untitled.canvas"
-  ]
+  "active": "7e952689676c7814",
+  "lastOpenFiles": []
 }
