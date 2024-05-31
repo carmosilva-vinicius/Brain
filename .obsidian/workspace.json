@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Rust/Vector.md",
+                "file": "Programming/Rust/Struct.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Rust/Vector.md",
+                "file": "Programming/Rust/Struct.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Rust/Vector.md",
+                "file": "Programming/Rust/Struct.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Rust/Vector.md"
+                "file": "Programming/Rust/Struct.md"
               }
             }
           }
@@ -159,6 +159,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7e952689676c7814",
-  "lastOpenFiles": []
+  "active": "6cc9f6eeca724df4",
+  "lastOpenFiles": [
+    "Programming/Rust/Vector.md",
+    "Programming/Rust/Struct.md"
+  ]
 }
