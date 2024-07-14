@@ -1,4 +1,25 @@
 Here are some tools to write code and run [[CLI]] commands in a [[Linux]] system. 
+
+# Zellij
+- `Alt + n`: New pane;
+- `Alt + <[]>`: Switch horizontal/vertical split;
+- `Alt + <←↑→↓hjkl>`: Navigate between panes;
+- `CTRL + g`: Lock;
+- `CTRL + p x`: Close current pane;
+- `CTRL + p c`: Rename current pane;
+- `CTRL + p f`: Toggle full-screen;
+- `CTRL + p w`: Toggle floating ;
+- `CTRL + p e`: Toggle embed;
+- `CTRL + n <+-←↑→↓hjkl>: Resize current pane;
+- `CTRL + n <←↑→↓hjkl>: Move current pane;
+- `CTRL + s s`: Search a term;
+- `CTRL + s <↑↓>`: Scroll;
+- `CTRL + s <PgUp|PgDn>`: Scroll a page;
+-  `CTRL + s <d|u>`: Scroll half page;
+-  `CTRL + o d`: Detach from session;
+- `CTRL + o w`: Session manager;
+- `CTRL + q`: Quit;
+___
 # TMUX
 - `Ctrl + <leader> %` : Split the terminal vertically;
 - `Ctrl + <leader> "`: Split the terminal horizontally;
@@ -33,7 +54,6 @@ ___
 
 - `<space>e`:  Open LSP diagnostic;
 - `<space>q`:  Open LSP diagnostic list;
-- 
 # Vim
 Pressing `i` or `a`, that means insert and append respectively, you can change from the command mode to editing mode. To return to command mode, you should press `esc`.
 #### Saving
