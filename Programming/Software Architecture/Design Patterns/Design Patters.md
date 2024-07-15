@@ -1,0 +1,1 @@
+Are common approaches to frequent problems in software development. It is a important subject study in [[Software Architecture]].

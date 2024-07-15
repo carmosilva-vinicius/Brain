@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "86b26638d3b2f05d",
+        "id": "dcc963ac7601ab60",
         "type": "tabs",
         "children": [
           {
-            "id": "447d9d345569430a",
+            "id": "375bb094a6083e69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/Linux/Coding Setup.md",
+                "file": "Programming/Software Architecture/DI and IOC.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS/Linux/Coding Setup.md",
+                "file": "Programming/Software Architecture/DI and IOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS/Linux/Coding Setup.md",
+                "file": "Programming/Software Architecture/DI and IOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OS/Linux/Coding Setup.md"
+                "file": "Programming/Software Architecture/DI and IOC.md"
               }
             }
           },
@@ -159,10 +159,18 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "447d9d345569430a",
+  "active": "375bb094a6083e69",
   "lastOpenFiles": [
-    "Database/Relational/SQL Server/Check.md",
+    "Programming/Rust/Arrays.md",
     "Programming/Rust/Vector.md",
+    "Programming/Software Architecture/Domain-Driven Design/DDD.md",
+    "README.md",
+    "Programming/Software Architecture/Design Patterns/Design Patters.md",
+    "Programming/Software Architecture/Design Patterns/Builder.md",
+    "Programming/Software Architecture/Clean Architecture/Clean Architecture.md",
+    "Programming/Software Architecture/Clean Architecture/Gateways.md",
+    "OS/Linux/Coding Setup.md",
+    "Database/Relational/SQL Server/Check.md",
     "Programming/Rust/Prelude.md",
     "Programming/Rust/Option.md",
     "Programming/Rust/Ownership.md",
@@ -175,12 +183,8 @@
     "Imagem+06.png",
     "Imagem+06.png.crdownload",
     "Programming/Software Architecture/Clean Architecture/Controller.md",
-    "Programming/Software Architecture/Clean Architecture/Clean Architecture.md",
     "Programming/Software Architecture/DI and IOC.md",
     "Data Structure/Data Structure.md",
-    "Programming/Software Architecture/Clean Architecture/Gateways.md",
-    "Programming/Software Architecture/Design Patterns/Builder.md",
-    "Programming/Software Architecture/Design Patterns/Design Patters.md",
     "Programming/Software Architecture/Clean Architecture/Value Objects.md",
     "Programming/Software Architecture/Design Patterns",
     "Programming/Software Architecture/Clean Architecture/Entity.md",
@@ -188,24 +192,20 @@
     "Programming/Software Architecture/assets/CleanArchitecture.jpg",
     "Programming/Software Architecture/Clean Architecture",
     "Programming/Software Architecture/assets/onnion.png",
-    "OS/Linux/Coding Setup.md",
     "Programming/Software Architecture/Software Architecture.md",
     "Programming/Software Architecture/Hexagonal Architecture.md",
     "Programming/Software Architecture/assets",
     "Programming/Software Architecture/assets/hexagonal.png",
     "Programming/Software Architecture",
     "Programming/Rust/Rust.md",
-    "README.md",
     "Work/Meet.md",
     "Work",
-    "Data Structure/Tree/Binary Tree.md",
     "Data Structure/assets/skewed1.png",
     "Data Structure/assets/skewed1.png.crdownload",
     "Data Structure/assets/degeneratetree.png",
     "Data Structure/assets/degeneratetree.png.crdownload",
     "Data Structure/assets/fullbt.png",
     "Data Structure/assets/fullbt.png.crdownload",
-    "Data Structure/Tree/Tree.md",
     "DevOps/Git",
     "Untitled.canvas"
   ]
