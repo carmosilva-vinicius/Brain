@@ -33,7 +33,13 @@ ___
 
 - `<space>e`:  Open LSP diagnostic;
 - `<space>q`:  Open LSP diagnostic list;
-- 
+### DAP
+- `<F5>`: Start/Continue
+- `<F1>`: Step Into
+- `<F2>`: Step Over
+- `<F3>`: Step Out
+- `<space>b`: Toggle  Breakpoint
+- `<space>B`: Breakpoint Conditon
 # Vim
 Pressing `i` or `a`, that means insert and append respectively, you can change from the command mode to editing mode. To return to command mode, you should press `esc`.
 #### Saving

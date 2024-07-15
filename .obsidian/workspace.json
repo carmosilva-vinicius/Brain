@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "60f961c45b38760e",
+    "id": "aec8b7893505be73",
     "type": "split",
     "children": [
       {
-        "id": "b25b872771db8782",
+        "id": "51db455e47e36dfc",
         "type": "tabs",
         "children": [
           {
-            "id": "903eaa7455c09870",
+            "id": "2026d4bb6e993edd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/Relational/SQL Server/Check.md",
+                "file": "Database/Relational/SQL Server/Subqueries.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "80f7006c3a5089d3",
+    "id": "6402e9b644a844e1",
     "type": "split",
     "children": [
       {
-        "id": "a836e542a2e9dd5b",
+        "id": "05d3c47a86bd8627",
         "type": "tabs",
         "children": [
           {
-            "id": "bd76018b1e0d0dcf",
+            "id": "d61a764fe0de1e41",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "3592c2dfa69ccf2a",
+            "id": "1c476e29f925f026",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "47ab4e16d0065227",
+            "id": "9315c839d1334d5e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278
+    "width": 300
   },
   "right": {
-    "id": "4c6be302c9c205d6",
+    "id": "60f8c56d83e841b4",
     "type": "split",
     "children": [
       {
-        "id": "a476e7e0cf3e335f",
+        "id": "151b24561f2946be",
         "type": "tabs",
         "children": [
           {
-            "id": "2e2a489dd704c384",
+            "id": "b569365b858b7274",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/Relational/SQL Server/Check.md",
+                "file": "Database/Relational/SQL Server/Subqueries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "608e9aec38921c80",
+            "id": "71d6e1c5fdf22e4a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/Relational/SQL Server/Check.md",
+                "file": "Database/Relational/SQL Server/Subqueries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "fcc20d67f6379e71",
+            "id": "a17a5bd201cec3ef",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,17 +120,7 @@
             }
           },
           {
-            "id": "8a4b6be70c28eb6e",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Database/Relational/SQL Server/Check.md"
-              }
-            }
-          },
-          {
-            "id": "bd794b7eaf500e30",
+            "id": "caa3eb99c427ccd6",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -138,6 +128,16 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "82c07c1bf0e94077",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Database/Relational/SQL Server/Subqueries.md"
               }
             }
           }
@@ -159,57 +159,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "903eaa7455c09870",
+  "active": "2026d4bb6e993edd",
   "lastOpenFiles": [
-    "Programming/Rust/Vector.md",
-    "Programming/Rust/Prelude.md",
-    "Programming/Rust/Option.md",
-    "Programming/Rust/Ownership.md",
-    "Programming/Rust/Pattern Matching.md",
-    "Programming/Rust/Types.md",
-    "Programming/Software Architecture/Clean Architecture/Use Cases.md",
-    "Programming/Software Architecture/assets/Imagem+06.png",
-    "Programming/Software Architecture/Imagem+06.png",
-    "Programming/Imagem+06.png",
-    "Imagem+06.png",
-    "Imagem+06.png.crdownload",
-    "Programming/Software Architecture/Clean Architecture/Controller.md",
-    "Programming/Software Architecture/Clean Architecture/Clean Architecture.md",
-    "Programming/Software Architecture/DI and IOC.md",
-    "Data Structure/Data Structure.md",
-    "Programming/Software Architecture/Clean Architecture/Gateways.md",
-    "Programming/Software Architecture/Design Patterns/Builder.md",
-    "Programming/Software Architecture/Design Patterns/Design Patters.md",
-    "Programming/Software Architecture/Clean Architecture/Value Objects.md",
-    "Programming/Software Architecture/Design Patterns",
-    "Programming/Software Architecture/Clean Architecture/Entity.md",
-    "Programming/Software Architecture/Onion Architecture.md",
-    "Programming/Software Architecture/assets/CleanArchitecture.jpg",
-    "Programming/Software Architecture/Clean Architecture",
-    "Programming/Software Architecture/assets/onnion.png",
+    "Database/Relational/SQL Server/Views.md",
+    "Database/Relational/SQL Server/Subqueries.md",
+    "Database/Relational/PostgreSQL/psql.md",
+    "Database/Relational/PostgreSQL/PostgreSQL.md",
+    "Database/Relational/PostgreSQL/GiST and GIN.md",
+    "Database/Relational/PostgreSQL/Index.md",
+    "Database/Database.md",
     "OS/Linux/Coding Setup.md",
-    "Programming/Software Architecture/Software Architecture.md",
-    "Programming/Software Architecture/Hexagonal Architecture.md",
-    "Programming/Software Architecture/assets",
-    "Programming/Software Architecture/assets/hexagonal.png",
-    "Programming/Software Architecture",
-    "Programming/Rust/Rust.md",
-    "README.md",
-    "Work/Meet.md",
-    "Work",
-    "Data Structure/Tree/Binary Tree.md",
-    "Data Structure/assets/skewed1.png",
-    "Data Structure/assets/skewed1.png.crdownload",
-    "Data Structure/assets/degeneratetree.png",
-    "Data Structure/assets/degeneratetree.png.crdownload",
-    "Data Structure/assets/fullbt.png",
-    "Data Structure/assets/fullbt.png.crdownload",
-    "Data Structure/Tree/Tree.md",
-<<<<<<< HEAD
-=======
-    "Programming/Java/Java.md",
->>>>>>> beba21f9625f3b6ecb722ebceada33f506ade443
-    "DevOps/Git",
-    "Untitled.canvas"
+    "Programming/Software Architecture/The Twelve-Factor App.md",
+    "Database/Relational/SQL Server/Trigger.md"
   ]
 }

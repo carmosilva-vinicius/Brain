@@ -1,4 +1,4 @@
-PostgreSQL is a powerful, open source object-[[Relational|relational]] database system that uses and extends the SQL language combined with many features that safely store and scale the most complicated data workloads. The origins of PostgreSQL date back to 1986 as part of the [POSTGRES](https://www.postgresql.org/docs/current/history.html) project at the University of California at Berkeley and has more than 35 years of active development on the core platform. ([about, 2023](https://www.postgresql.org/about/))
+	PostgreSQL is a powerful, open source object-[[Relational|relational]] database system that uses and extends the SQL language combined with many features that safely store and scale the most complicated data workloads. The origins of PostgreSQL date back to 1986 as part of the [POSTGRES](https://www.postgresql.org/docs/current/history.html) project at the University of California at Berkeley and has more than 35 years of active development on the core platform. ([about, 2023](https://www.postgresql.org/about/))
 
 ## Setup
 A simple [[Docker]] compose setup of Postgre database and PgAdmin manager:
