@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "dcc963ac7601ab60",
+        "id": "48e467743aad0efc",
         "type": "tabs",
         "children": [
           {
-            "id": "375bb094a6083e69",
+            "id": "cdf3e8668ba1d3a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Software Architecture/DI and IOC.md",
+                "file": "Programming/Programming.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ddd2a7bd3c11b0be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MediaServer/Media Server.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cf322435265d634d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OS/Linux/Coding Setup.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Software Architecture/DI and IOC.md",
+                "file": "OS/Linux/Coding Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Software Architecture/DI and IOC.md",
+                "file": "OS/Linux/Coding Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Software Architecture/DI and IOC.md"
+                "file": "OS/Linux/Coding Setup.md"
               }
             }
           },
@@ -159,8 +184,23 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "375bb094a6083e69",
+  "active": "cf322435265d634d",
   "lastOpenFiles": [
+    "Programming/Programming.md",
+    "MediaServer/Media Server.md",
+    "Utils/Jq.md",
+    "Utils",
+    "Hardware/Embedded Systems/STM32.md",
+    "Hardware/Embedded Systems/assets/stm32f103c8t6.png",
+    "Hardware/Embedded Systems/assets",
+    "Hardware/Embedded Systems/Nova pasta",
+    "Hardware/Embedded Systems",
+    "Hardware",
+    "Web/Web.md",
+    "Software.md",
+    "Database/Relational/SQL Server/Basics.md",
+    "Database/Relational/SQL Server/SQL Server.md",
+    "Programming/Software Architecture/DI and IOC.md",
     "Programming/Rust/Arrays.md",
     "Programming/Rust/Vector.md",
     "Programming/Software Architecture/Domain-Driven Design/DDD.md",
@@ -183,30 +223,15 @@
     "Imagem+06.png",
     "Imagem+06.png.crdownload",
     "Programming/Software Architecture/Clean Architecture/Controller.md",
-    "Programming/Software Architecture/DI and IOC.md",
-    "Data Structure/Data Structure.md",
-    "Programming/Software Architecture/Clean Architecture/Value Objects.md",
     "Programming/Software Architecture/Design Patterns",
-    "Programming/Software Architecture/Clean Architecture/Entity.md",
-    "Programming/Software Architecture/Onion Architecture.md",
     "Programming/Software Architecture/assets/CleanArchitecture.jpg",
     "Programming/Software Architecture/Clean Architecture",
     "Programming/Software Architecture/assets/onnion.png",
-    "Programming/Software Architecture/Software Architecture.md",
-    "Programming/Software Architecture/Hexagonal Architecture.md",
     "Programming/Software Architecture/assets",
     "Programming/Software Architecture/assets/hexagonal.png",
     "Programming/Software Architecture",
-    "Programming/Rust/Rust.md",
-    "Work/Meet.md",
-    "Work",
     "Data Structure/assets/skewed1.png",
-    "Data Structure/assets/skewed1.png.crdownload",
     "Data Structure/assets/degeneratetree.png",
-    "Data Structure/assets/degeneratetree.png.crdownload",
-    "Data Structure/assets/fullbt.png",
-    "Data Structure/assets/fullbt.png.crdownload",
-    "DevOps/Git",
     "Untitled.canvas"
   ]
 }
