@@ -40,7 +40,9 @@
                 "file": "OS/Linux/Coding Setup.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Factory Method"
             }
           }
         ],
@@ -64,7 +66,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -79,7 +83,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -87,7 +93,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -118,7 +126,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Dependency Inversion Principle"
             }
           },
           {
@@ -130,7 +140,9 @@
                 "file": "OS/Linux/Coding Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Dependency Inversion Principle"
             }
           },
           {
@@ -141,7 +153,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -163,7 +177,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ]
@@ -205,8 +221,6 @@
     "Programming/Rust/Vector.md",
     "Programming/Software Architecture/Domain-Driven Design/DDD.md",
     "README.md",
-    "Programming/Software Architecture/Design Patterns/Design Patters.md",
-    "Programming/Software Architecture/Design Patterns/Builder.md",
     "Programming/Software Architecture/Clean Architecture/Clean Architecture.md",
     "Programming/Software Architecture/Clean Architecture/Gateways.md",
     "OS/Linux/Coding Setup.md",
@@ -230,8 +244,16 @@
     "Programming/Software Architecture/assets",
     "Programming/Software Architecture/assets/hexagonal.png",
     "Programming/Software Architecture",
+<<<<<<< HEAD
+=======
+    "Work",
+>>>>>>> 4dc941f (Add content about design patterns)
     "Data Structure/assets/skewed1.png",
     "Data Structure/assets/degeneratetree.png",
+<<<<<<< HEAD
+=======
+    "Data Structure/assets/fullbt.png",
+>>>>>>> 4dc941f (Add content about design patterns)
     "Untitled.canvas"
   ]
 }

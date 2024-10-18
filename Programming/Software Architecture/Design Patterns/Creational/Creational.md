@@ -1,0 +1,1 @@
+Is a category of [[Design Patterns]] in software engineering that deals with object creation mechanisms. These patterns aim to abstract the instantiation process, allowing for more flexibility in how objects are created and making the system more scalable and maintainable.

@@ -1,4 +1,4 @@
-Is a creaational [[Design Patters]] that allows for the step-by-step construction of complex objects. It separates the construction of an object from its representation, enabling the same construction process to create different representations of an object. This pattern is particularly useful when an object requires a significant amount of configuration or when the construction process is complex and involves many optional components.
+Is a creaational [[Design Patterns]] that allows for the step-by-step construction of complex objects. It separates the construction of an object from its representation, enabling the same construction process to create different representations of an object. This pattern is particularly useful when an object requires a significant amount of configuration or when the construction process is complex and involves many optional components.
 
 Here's a simplified example to illustrate the Builder pattern:
 
