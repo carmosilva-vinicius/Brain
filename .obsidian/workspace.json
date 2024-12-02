@@ -4,47 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "48e467743aad0efc",
+        "id": "cfe4e36f45c63d58",
         "type": "tabs",
         "children": [
           {
-            "id": "cdf3e8668ba1d3a3",
+            "id": "ec1fff20bcf5b04b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Programming.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ddd2a7bd3c11b0be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MediaServer/Media Server.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cf322435265d634d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OS/Linux/Coding Setup.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -64,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -79,7 +54,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -87,7 +64,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -118,7 +97,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Coding Setup"
             }
           },
           {
@@ -130,7 +111,9 @@
                 "file": "OS/Linux/Coding Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Coding Setup"
             }
           },
           {
@@ -141,7 +124,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -151,7 +136,9 @@
               "type": "outline",
               "state": {
                 "file": "OS/Linux/Coding Setup.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Coding Setup"
             }
           },
           {
@@ -163,7 +150,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ]
@@ -184,8 +173,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "cf322435265d634d",
+  "active": "ec1fff20bcf5b04b",
   "lastOpenFiles": [
+    "Database/Transaction.md",
+    "Database/Relational/Relational.md",
+    "Database/Database.md",
+    "Database/ORM.md",
+    "OS/Linux/Coding Setup.md",
     "Programming/Programming.md",
     "MediaServer/Media Server.md",
     "Utils/Jq.md",
@@ -209,20 +203,15 @@
     "Programming/Software Architecture/Design Patterns/Builder.md",
     "Programming/Software Architecture/Clean Architecture/Clean Architecture.md",
     "Programming/Software Architecture/Clean Architecture/Gateways.md",
-    "OS/Linux/Coding Setup.md",
     "Database/Relational/SQL Server/Check.md",
     "Programming/Rust/Prelude.md",
     "Programming/Rust/Option.md",
     "Programming/Rust/Ownership.md",
-    "Programming/Rust/Pattern Matching.md",
-    "Programming/Rust/Types.md",
-    "Programming/Software Architecture/Clean Architecture/Use Cases.md",
     "Programming/Software Architecture/assets/Imagem+06.png",
     "Programming/Software Architecture/Imagem+06.png",
     "Programming/Imagem+06.png",
     "Imagem+06.png",
     "Imagem+06.png.crdownload",
-    "Programming/Software Architecture/Clean Architecture/Controller.md",
     "Programming/Software Architecture/Design Patterns",
     "Programming/Software Architecture/assets/CleanArchitecture.jpg",
     "Programming/Software Architecture/Clean Architecture",
