@@ -12,14 +12,14 @@ services:
 	ports:
 		- "9696:9696"
 	environment:
-		- PUID=1000
+			- PUID=1000
 		- PGID=1000
 		- UMASK=002
 		- TZ=America/Sao_Paulo
 	volumes:
 		- /etc/localtime:/etc/localtime:ro
-		- /docker/MediaServer/app/prowlarr:/config
-		- /docker/MediaServer/data:/data
+		- /home/vinico/Downloads/MediaServer/app/prowlarr:/config
+		- /home/vinico/Downloads/MediaServer/data:/data
 	networks:
 		- MediaServer
 	radarr:
@@ -37,8 +37,8 @@ services:
 			- TZ=America/Sao_Paulo
 		volumes:
 			- /etc/localtime:/etc/localtime:ro
-			- /docker/MediaServer/app/radarr:/config
-			- /docker/MediaServer/data:/data
+			- /home/vinico/Downloads/MediaServer/app/radarr:/config
+			- /home/vinico/Downloads/MediaServer/data:/data
 		networks:
 			- MediaServer
 	sonarr:
@@ -56,8 +56,8 @@ services:
 			- TZ=America/Sao_Paulo
 		volumes:
 			- /etc/localtime:/etc/localtime:ro
-			- /docker/MediaServer/app/sonarr:/config
-			- /docker/MediaServer/data:/data
+			- /home/vinico/Downloads/MediaServer/app/sonarr:/config
+			- /home/vinico/Downloads/MediaServer/data:/data
 		networks:
 			- MediaServer
 	qbittorrent:
@@ -71,8 +71,8 @@ services:
 			- UMASK=002
 			- TZ=America/Sao_Paulo
 		volumes:
-			- /docker/MediaServer/app/qbittorrent:/config
-			- /docker/MediaServer/data/torrents:/data/torrents
+			- /home/vinico/Downloads/MediaServer/app/qbittorrent:/config
+			- /home/vinico/Downloads/MediaServer/data/torrents:/data/torrents
 		networks:
 			- MediaServer
 	bazarr:
@@ -86,9 +86,9 @@ services:
 			- UMASK=002
 			- TZ=America/Sao_Paulo
 		volumes:
-			- /docker/MediaServer/app/bazarr:/config
-			- /docker/MediaServer/data/torrents/movies:/data/torrents/movies
-			- /docker/MediaServer/data/torrents/tv:/data/torrents/tv
+			- /home/vinico/Downloads/MediaServer/app/bazarr:/config
+			- /home/vinico/Downloads/MediaServer/data/torrents/movies:/data/torrents/movies
+			- /home/vinico/Downloads/MediaServer/data/torrents/tv:/data/torrents/tv
 		networks:
 			- MediaServer
 	pms-docker:
@@ -108,9 +108,9 @@ services:
 			- 'ADVERTISE_IP=http://172.19.0.3:32400/'
 		hostname: PlexServer
 		volumes:
-			- '/docker/MediaServer/app/plex/config:/config'
-			- '/docker/MediaServer/app/plex/transcode:/transcode'
-			- '/docker/MediaServer/data:/data'
+			- '/home/vinico/Downloads/MediaServer/app/plex/config:/config'
+			- '/home/vinico/Downloads/MediaServer/app/plex/transcode:/transcode'
+			- '/home/vinico/Downloads/MediaServer/data:/data'
 		image: plexinc/pms-docker
 		networks:
 			- MediaServer
