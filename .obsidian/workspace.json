@@ -1,52 +1,24 @@
 {
   "main": {
-    "id": "60f961c45b38760e",
+    "id": "70ee0bfad630a748",
     "type": "split",
     "children": [
       {
-        "id": "cfe4e36f45c63d58",
+        "id": "0e19baa9f8888b61",
         "type": "tabs",
         "children": [
           {
-            "id": "ec1fff20bcf5b04b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Programming.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ddd2a7bd3c11b0be",
+            "id": "12bc6a577dffbece",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MediaServer/Media Server.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cf322435265d634d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OS/Linux/Coding Setup.md",
+                "file": "Programming/Elixir/Phoenix/Routing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Factory Method"
+              "title": "Routing"
             }
           }
         ]
@@ -55,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "80f7006c3a5089d3",
+    "id": "cf7982eb29e7f56e",
     "type": "split",
     "children": [
       {
-        "id": "a836e542a2e9dd5b",
+        "id": "79d1826cea90fb8b",
         "type": "tabs",
         "children": [
           {
-            "id": "bd76018b1e0d0dcf",
+            "id": "0a9041cd767739fe",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -75,7 +47,7 @@
             }
           },
           {
-            "id": "3592c2dfa69ccf2a",
+            "id": "cd6a229991e8fd0d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -92,7 +64,7 @@
             }
           },
           {
-            "id": "47ab4e16d0065227",
+            "id": "60a74f37224f368c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -105,23 +77,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278
+    "width": 300
   },
   "right": {
-    "id": "4c6be302c9c205d6",
+    "id": "6a52e03adbac1836",
     "type": "split",
     "children": [
       {
-        "id": "a476e7e0cf3e335f",
+        "id": "beaaa2b5e80669d8",
         "type": "tabs",
         "children": [
           {
-            "id": "2e2a489dd704c384",
+            "id": "741ffe55f53378c8",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS/Linux/Coding Setup.md",
+                "file": "Programming/Elixir/Phoenix/Routing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,25 +103,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Coding Setup"
+              "title": "Backlinks for Routing"
             }
           },
           {
-            "id": "608e9aec38921c80",
+            "id": "8756a94c070f0db1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS/Linux/Coding Setup.md",
+                "file": "Programming/Elixir/Phoenix/Routing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Coding Setup"
+              "title": "Outgoing links from Routing"
             }
           },
           {
-            "id": "fcc20d67f6379e71",
+            "id": "fa83e44291ba505c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -162,19 +134,7 @@
             }
           },
           {
-            "id": "8a4b6be70c28eb6e",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "OS/Linux/Coding Setup.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Coding Setup"
-            }
-          },
-          {
-            "id": "bd794b7eaf500e30",
+            "id": "ed741da391a49e4b",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -185,6 +145,18 @@
               },
               "icon": "lucide-archive",
               "title": "All properties"
+            }
+          },
+          {
+            "id": "c318a99d2fd8afe6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Programming/Elixir/Phoenix/Routing.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Routing"
             }
           }
         ]
@@ -205,54 +177,25 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ec1fff20bcf5b04b",
+  "active": "12bc6a577dffbece",
   "lastOpenFiles": [
-    "Programming/Software Architecture/SOLID/SOLID.md",
-    "Programming/Software Architecture/SOLID/Single Responsibility Principle.md",
-    "Programming/Software Architecture/SOLID/Dependency Inversion Principle.md",
-    "Programming/Software Architecture/SOLID",
-    "Programming/Software Architecture/Design Patterns/Design Patterns.md",
-    "Programming/Software Architecture/Design Patterns/Creational/Factory Method.md",
+    "Programming/Elixir/Phoenix/Plug.md",
+    "Programming/Elixir/Phoenix/Phoenix.md",
+    "Programming/Elixir/Phoenix/JSON and APIs.md",
+    "Programming/Elixir/Phoenix/Ecto.md",
+    "Programming/Elixir/Phoenix/Controllers.md",
+    "Programming/Elixir/Phoenix/Context.md",
+    "Programming/Elixir/Phoenix/Components and HEEx.md",
+    "Programming/Elixir/Pattern matching.md",
+    "Programming/Elixir/Functions.md",
+    "Programming/Elixir/Enums.md",
+    "Programming/Elixir/Control Structure.md",
+    "Programming/Elixir/Compiler.md",
+    "Programming/Elixir/Basics.md",
+    "Programming/Software Architecture/Design Patterns/Structural/Facade.md",
+    "Programming/Software Architecture/Design Patterns/Structural/Structural.md",
     "Programming/Software Architecture/Design Patterns/Creational/Creational.md",
-    "Programming/Software Architecture/Design Patterns/Creational",
-    "Database/Transaction.md",
-    "Database/Relational/Relational.md",
-    "Database/Database.md",
-    "Database/ORM.md",
-    "OS/Linux/Coding Setup.md",
-    "Programming/Programming.md",
-    "MediaServer/Media Server.md",
-    "Utils/Jq.md",
-    "Utils",
-    "Hardware/Embedded Systems/STM32.md",
-    "Hardware/Embedded Systems/assets/stm32f103c8t6.png",
-    "Hardware/Embedded Systems/assets",
-    "Hardware/Embedded Systems/Nova pasta",
-    "Hardware/Embedded Systems",
-    "Hardware",
-    "Web/Web.md",
-    "Software.md",
-    "Database/Relational/SQL Server/Basics.md",
-    "Database/Relational/SQL Server/SQL Server.md",
-    "Programming/Software Architecture/DI and IOC.md",
-    "Programming/Rust/Arrays.md",
-    "Programming/Rust/Vector.md",
-    "Programming/Software Architecture/Domain-Driven Design/DDD.md",
-    "README.md",
-    "Programming/Software Architecture/Design Patterns/Design Patters.md",
-    "Programming/Software Architecture/Design Patterns/Builder.md",
-    "Programming/Software Architecture/assets/Imagem+06.png",
-    "Programming/Software Architecture/Imagem+06.png",
-    "Programming/Imagem+06.png",
-    "Imagem+06.png",
-    "Imagem+06.png.crdownload",
-    "Programming/Software Architecture/Design Patterns",
-    "Programming/Software Architecture/assets/CleanArchitecture.jpg",
-    "Programming/Software Architecture/Clean Architecture",
-    "Programming/Software Architecture/assets/onnion.png",
-    "Programming/Software Architecture/assets/hexagonal.png",
-    "Data Structure/assets/skewed1.png",
-    "Data Structure/assets/degeneratetree.png",
-    "Untitled.canvas"
+    "Programming/Software Architecture/SOLID/Single Responsibility Principle.md",
+    "Programming/Software Architecture/Design Patterns/Structural"
   ]
 }
