@@ -20,6 +20,13 @@ systemctl disable <service_name>
 
 ```
 
+### User Services
+Systemd can also manage user-specific services (running without root).
+- Example: [[OS/Linux/Tools/Walker|Elephant]] (Backend for Walker launcher).
+```zsh
+systemctl --user status elephant
+```
+
 ### Configuring DoT ([[DNS]] over TLS) using Systemd
 
 1. Edit the configuration file for the `systemd-resolved` service. This file is typically located at `/etc/systemd/resolved.conf` and contains settings for the DNS resolver service in systemd. 

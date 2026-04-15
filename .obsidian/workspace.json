@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0e19baa9f8888b61",
+        "id": "3b023112f63f7d5c",
         "type": "tabs",
         "children": [
           {
-            "id": "12bc6a577dffbece",
+            "id": "781520e3162b1734",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Elixir/Phoenix/Routing.md",
+                "file": "OS/Linux/Coding Setup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Routing"
+              "title": "Coding Setup"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -168,6 +169,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -177,25 +179,37 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "12bc6a577dffbece",
+  "active": "781520e3162b1734",
   "lastOpenFiles": [
+    "OS/Linux/CLI.md",
+    "OS/Linux/Linux.md",
+    "OS/Linux/Systemd.md",
+    "OS/Linux/Tools/Walker.md",
+    "OS/Linux/Tools",
+    "OS/Linux/Coding Setup.md",
+    "Database/Relational/PostgreSQL/Postgres to pgvector Migration.md",
+    "Database/Relational/PostgreSQL/PostgreSQL.md",
+    "Utils/Xh.md",
+    "Utils/Curlie.md",
+    "AI/LM Studio.md",
+    "AI/AI.md",
+    "README.md",
+    "CLAUDE.md",
+    "Curlie.md",
+    "Xh.md",
+    "AI.md",
+    "AI",
+    "CLAUDE.md.tmp.34869.1772305735441",
+    "Programming/Programming.md",
+    "DevOps/Git/interactive-git-with-fzf-delta.md",
+    "Database/Relational/SQL Server/SQL Server.md",
+    "Programming/Elixir/Phoenix/Routing.md",
     "Programming/Elixir/Phoenix/Plug.md",
     "Programming/Elixir/Phoenix/Phoenix.md",
     "Programming/Elixir/Phoenix/JSON and APIs.md",
     "Programming/Elixir/Phoenix/Ecto.md",
     "Programming/Elixir/Phoenix/Controllers.md",
     "Programming/Elixir/Phoenix/Context.md",
-    "Programming/Elixir/Phoenix/Components and HEEx.md",
-    "Programming/Elixir/Pattern matching.md",
-    "Programming/Elixir/Functions.md",
-    "Programming/Elixir/Enums.md",
-    "Programming/Elixir/Control Structure.md",
-    "Programming/Elixir/Compiler.md",
-    "Programming/Elixir/Basics.md",
-    "Programming/Software Architecture/Design Patterns/Structural/Facade.md",
-    "Programming/Software Architecture/Design Patterns/Structural/Structural.md",
-    "Programming/Software Architecture/Design Patterns/Creational/Creational.md",
-    "Programming/Software Architecture/SOLID/Single Responsibility Principle.md",
     "Programming/Software Architecture/Design Patterns/Structural"
   ]
 }

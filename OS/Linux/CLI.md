@@ -50,6 +50,10 @@ Here are the minimal required to command line interface in a [[Linux]] operation
 48. **top** - View active processes live with their system usage
 49. **useradd and usermod** - Add new user or change existing users data
 50. **passwd** - Create or update passwords for existing users
+
+### GUI Productivity
+- [[OS/Linux/Tools/Walker|Walker]] - Modern Wayland launcher with math, todo, and clipboard support.
+
 # File content view
 ### cat, more and less
 

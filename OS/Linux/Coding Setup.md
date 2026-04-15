@@ -1,4 +1,4 @@
-Here are some tools to write code and run [[CLI]] commands in a [[Linux]] system. 
+kHere are some tools to write code and run [[CLI]] commands in a [[Linux]] system. 
 
 # Zellij
 - `Alt + n`: New pane;
@@ -67,6 +67,25 @@ In the command mode, something can be saved using `:w /tmp/test.cs`, where it me
 - `Ctrl+w v`: Split the terminal vertically;
 - `Ctrl+w c`: Close a panel;
 - `Ctrl+w {h, j, k and l}`: To navigate the panels;
+___
+# Git Integration
+## Interactive Git with fzf + delta
+- `gfzf`: Browse commits interactively with delta preview (custom alias)
+  - Navigate with arrow keys or `Ctrl+j`/`Ctrl+k`
+  - Press Enter to view full diff with delta
+  - Start typing to filter commits
+
+## NeoVim Git (Fugitive)
+- `:Git log`: Browse commits
+- `:Git show <commit>`: View commit
+- `:Gdiffsplit`: Split diff view
+- `]c` / `[c`: Navigate between changes in diff
+
+## LazyVim Git shortcuts
+- `<leader>gc`: Commits browser (Telescope)
+- `<leader>gs`: Git status
+
+See full documentation: `~/Documents/Brain/DevOps/Git/interactive-git-with-fzf-delta.md`
 ___
 # TMUX
 - `Ctrl + <leader> %` : Split the terminal vertically;
